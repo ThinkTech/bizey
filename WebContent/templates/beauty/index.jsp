@@ -26,7 +26,7 @@
 						<li><a class="active" href="${path}">Accueil</a></li>
 						<li><a>À PROPOS</a></li>
 						<li><a>Nos Services</a></li>  
-						<li><a>Tarifs</a></li>   
+						<li><a>Nos Tarifs</a></li>   
 						<li><a>CONTACT</a></li>
 					  </ul>
 				 </div>
