@@ -77,7 +77,7 @@
 	   <div class="container">
 		<h3 class="tittle">À PROPOS</h3>
 		<h3 class="sub-text">Bienvenue À Bizey</h3>
-		<p>Nous vous accueillons dans un espace privilégié spacieux et moderne afin de satisfaire vos besoins. Notre équipe avec son savoir-faire, fait preuve de rigueur, d'écoute et d'une grande technicité. La précision des finitions et le temps alloué à chaque étape pour ne rien négliger, nous  permettent de vous offrir un service performant et de haut de gamme.</p>
+		<p>Bizey est un institut de Beauté qui s'active fortement dans les domaines de la Coiffure, de l'Onglerie, des Soins du Corps et du Maquillage Professionnel ainsi que tous les services similaires. Nous vous accueillons dans un espace privilégié spacieux et moderne afin de satisfaire vos besoins. Notre équipe avec son savoir-faire, fait preuve de rigueur, d'écoute et d'une grande technicité. La précision des finitions et le temps alloué à chaque étape pour ne rien négliger, nous  permettent de vous offrir un service performant et de haut de gamme.</p>
 	   
 	   </div>
     </div>
