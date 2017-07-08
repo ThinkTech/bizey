@@ -36,7 +36,6 @@ figure {
 }
 input {
   margin: 0;
-  font: inherit;
   color: inherit;
 }
 input[type="submit"] {
@@ -110,8 +109,6 @@ body {
   background-color: #fff;
 }
 input {
-  font-family: inherit;
-  font-size: inherit;
   line-height: inherit;
 }
 a {
@@ -758,6 +755,7 @@ font-family: cursive;
     margin-right: 5px;
     margin-bottom: 10px;
     font-weight : bold;
+     font-family : Tahoma;
 }
 
 .contact input[type=text],.contact input[type=email] {
@@ -767,7 +765,8 @@ font-family: cursive;
     margin-bottom: 15px;
     background: #fff1f8;
     padding-left: 3px;
-    border: 1px solid #841212;
+    border: 1px solid #F81A2A;
+    font-family : Tahoma;
 }
 
 .contact textarea {
@@ -778,7 +777,10 @@ font-family: cursive;
     display: block;
     background : #fff1f8;
     padding-left: 3px;
-     border: 1px solid #841212;
+    border: 1px solid #F81A2A;
+    font-family : Tahoma;
+    padding : 5px;
+    padding-left : 2px;
 }
 
 .contact input[type=submit] {
@@ -795,12 +797,12 @@ font-family: cursive;
     margin-bottom: 20px;
     margin-top: 30px;
     font-weight: bold;
-    border: 1px solid #841212;
+    border: 1px solid #F81A2A;
 }
 
 .contact input[type=submit]:hover {
 	background: #fff;
-	color: #c71585;
+	color: #F81A2A;
 }
 
 .newslatter {
@@ -842,7 +844,7 @@ ul.f-icons li a.facebook:hover,ul.f-icons li a.twitter:hover,ul.f-icons li a.gg:
   -o-transition: 0.8s;
 }
 .support input[type="text"] {
-    width: 79%;
+  width: 76%;
   padding: 12px;
   font-size: 15px;
   text-align: left;
@@ -864,7 +866,7 @@ ul.f-icons li a.facebook:hover,ul.f-icons li a.twitter:hover,ul.f-icons li a.gg:
   text-align: center;
   webkit-appearance:none;
   outline:none;
-  width: 20%;
+  width : auto;
   transition: 0.5s all;
   -webkit-transition: 0.5s all;
   -moz-transition: 0.5s all;
@@ -1345,14 +1347,8 @@ color: #F81A2A;
 	  margin: 0 0 0em 6em;
 	}
 	.support input[type="text"] {
-	  width: 70%;
+	  width: 60%;
 	  }
-	  .support input[type="submit"] {
-		  font-size: 13px;
-		  padding: 0.88em;
-		  outline: none;
-		  width: 28%;
-		}
 		.banner-info p {
 	  font-size: 0.8em;
 	  margin: 0.3em 0 0;
