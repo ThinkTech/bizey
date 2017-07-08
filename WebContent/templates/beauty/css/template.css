@@ -782,7 +782,7 @@ font-family: cursive;
     background: #F81A2A;
     cursor: pointer;
     display: block;
-    margin-left: 56%;
+    margin-left: 53%;
     padding-top: 1px;
     height: 42px;
     width: 85px;
@@ -801,6 +801,7 @@ font-family: cursive;
 
 ol {
 	margin : 0;
+	margin-left : 3%;
 }
 
 ol li {
@@ -861,10 +862,11 @@ ul.f-icons li a.facebook:hover,ul.f-icons li a.twitter:hover,ul.f-icons li a.gg:
   cursor: pointer;
    border: 0;
   color: #fff;
-  font-weight: 400;
+  font-weight: bold;
   font-size: 13px;
   text-transform: uppercase;
   padding: 0.88em;
+  padding-top: 0.7em;
   text-align: center;
   webkit-appearance:none;
   outline:none;

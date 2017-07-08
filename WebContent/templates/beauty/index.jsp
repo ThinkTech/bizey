@@ -31,7 +31,7 @@
 						</label>
 						<input id="mobile_menu" type="checkbox">
 					   <ul class="nav">
-						<li><a href="#welcome">Accueil</a></li>
+						<li><a href="#welcome" class="active">Accueil</a></li>
 						<li><a href="#services">Nos Services</a></li>  
 						<li><a href="#pricing">Nos Tarifs</a></li>   
 						<li><a href="#contact">CONTACT</a></li>
