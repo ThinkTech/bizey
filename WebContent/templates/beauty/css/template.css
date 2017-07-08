@@ -331,7 +331,7 @@ font-family: cursive;
   text-align: right;
   font-style: italic;
   margin: 0 0em 0 3em;
-  
+  white-space: nowrap;
 }
 .banner-bg{
 	background:url(../images/banner.jpg) no-repeat;
@@ -1868,6 +1868,7 @@ label.mobile_menu {
   position: relative;
   display: block;
   float: left;
+  margin-bottom : 10px;
 }
 .rslides img {
   height: auto;
