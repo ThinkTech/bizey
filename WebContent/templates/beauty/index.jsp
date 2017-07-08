@@ -8,7 +8,7 @@
 <link href="templates/beauty/css/template.css" rel="stylesheet" type="text/css" media="all"/>
  <link rel="shortcut icon" href="templates/beauty/images/banner.jpg"  sizes="32x32"/> 
 <meta property="og:type" content="website"/>
- <meta property="og:url" content="https://bizey.mircloud.host"/>
+ <meta property="og:url" content="${baseUrl}"/>
 <meta property="og:title" content="Institut Bizey - Site Officiel"/>
 <meta property="og:description" content="Bienvenue sur le site officiel de l'institut Bizey"/>
 <meta property="og:image" content="${baseUrl}/templates/beauty/images/banner.jpg"/>
