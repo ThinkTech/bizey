@@ -5,6 +5,8 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!--template.css-->
+<link href="css/metamorphosis.css" rel="stylesheet" type="text/css" media="all"/>
+<!--template.css-->
 <link href="templates/beauty/css/template.css" rel="stylesheet" type="text/css" media="all"/>
  <link rel="shortcut icon" href="templates/beauty/images/banner.jpg"  sizes="32x32"/> 
 <meta property="og:type" content="website"/>
@@ -248,8 +250,10 @@
 					</ul>
 							<div class="clearfix"></div>
 							<div class="support">
-							   <input type="text" class="text" value="Entrer votre email..." onfocus="this.value = '';" onblur="if (this.value == 'Enter email...') {this.value = 'Enter email...';}">
+							  <form>
+							   <input type="email" class="text" placeholder="Entrer votre email..." onfocus="this.value = '';" onblur="if (this.value == 'Enter email...') {this.value = 'Enter email...';}">
 							   <input type="submit" value="ABONNER" class="botton">
+							   </form>
 							</div>
 
 				   </div>
@@ -261,13 +265,13 @@
 			 <h3 class="tittle two">Contact</h3>
 			<form>
 			    <label>Nom Complet</label>
-		  		<input id="name" name="mail.author" placeholder="Entrer votre nom complet..." type="text">
+		  		<input id="name" name="mail.author" placeholder="Entrer votre nom complet..." type="text" data-info="Vous devez entrer votre nom complet">
 		  		<label>Email</label>
-		 		 <input id="email" name="mail.address" placeholder="Entrer votre email..." type="email">
+		 		 <input id="email" name="mail.address" placeholder="Entrer votre email..." type="email" data-info="Vous devez entrer votre email">
 		 		 <label data-translation="subject">Sujet</label>
-		  		 <input id="subject" name="mail.subject" placeholder="Entrer votre sujet..." type="text">
+		  		 <input id="subject" name="mail.subject" placeholder="Entrer votre sujet..." type="text" data-info="Vous devez entrer votre sujet">
 		  		 <label>Votre Message</label>
-		         <textarea id="message" name="mail.content" placeholder="Entrer votre message..."></textarea>
+		         <textarea id="message" name="mail.content" placeholder="Entrer votre message..." data-info="Vous devez entrer votre message"></textarea>
   	             <input id="submit" type="submit" value="Envoyer">
 			</form>  	
 	        </div>
@@ -326,8 +330,9 @@
 				</div>
 			<!--//end-copyright-section-->
 		<a href="#home" id="toTop" class="scroll" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
-<!-- jQuery (Bootstrap's JavaScript plugins) -->
+<!-- javascript -->
 <script src="templates/beauty/js/jquery.min.js"></script>
+<script src="js/metamorphosis.js"></script>
 <script src="templates/beauty/js/bootstrap.min.js"></script>
 <script src="templates/beauty/js/modernizr.custom.js"></script>
 <!--banner-slide-->
@@ -367,6 +372,63 @@
 										$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 									});
 									$('.banner-bg').animate({opacity:1},1000);
+									const subscribeForm = $(".support form");
+									subscribeForm.submit(function(event){
+										event.preventDefault();
+										console.log("here");
+										const input = $('input[type="email"]',subscribeForm);
+										const val = input.val();
+										console.log(val);
+										if(val.trim() == '') {
+											const message = "Vous devez entrer votre email";
+											alert(message,function(){
+												input.focus();
+											});
+										    return false;
+										}
+										$.ajax({
+											url: subscribeForm.attr('action'),
+											type : 'POST',
+											data : subscribeForm.serialize(),
+											beforeSend: function(){
+												subscribeForm.addClass("animated infinite pulse");
+											}
+										}).done(function(data){
+											subscribeForm.removeClass("animated infinite pulse").fadeOut();
+											$("input[type=text],input[type=email],textarea",subscribeForm).val("");
+										}).fail(function(data){
+											subscribeForm.removeClass("animated infinite pulse");
+										});
+									});
+								});
+								const contactForm = $(".contact form");
+								contactForm.submit(function(event){
+									event.preventDefault();
+									var valid = true;
+							        $('input,textarea',contactForm).each(function(index,element) {
+							        	const val = $(element).val();
+										if(val.trim() == '') {
+											const message = $(this).attr("data-info");
+											alert(message,function(){
+												$(element).focus();
+											});
+										    return valid = false;
+										}
+							        });
+							        if(!valid) return valid;
+									$.ajax({
+										url: contactForm.attr('action'),
+										type : 'POST',
+										data : contactForm.serialize(),
+										beforeSend: function(){
+											contactForm.addClass("animated infinite pulse");
+										}
+									}).done(function(data){
+										contactForm.removeClass("animated infinite pulse").fadeOut();
+										$("input[type=text],input[type=email],textarea",contactForm).val("");
+									}).fail(function(data){
+										contactForm.removeClass("animated infinite pulse");
+									});
 								});
 								</script>
 							<!--start-smoth-scrolling-->

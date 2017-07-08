@@ -24,6 +24,9 @@ a:active,
 a:hover {
   outline: 0;
 }
+.nav li a.active, .nav li a:hover {
+  color:#c71585!important;
+}
 h1 {
   margin: .67em 0;
   font-size: 2em;
@@ -842,7 +845,7 @@ ul.f-icons li a.facebook:hover,ul.f-icons li a.twitter:hover,ul.f-icons li a.gg:
   -moz-transition: 0.8s;
   -o-transition: 0.8s;
 }
-.support input[type="text"] {
+.support input[type="email"] {
   width: 76%;
   padding: 12px;
   font-size: 15px;
@@ -1231,7 +1234,7 @@ color: #F81A2A;
 	  font-size: 2em;
 	  padding: 17px 0 0 0;
 	}
-	.support input[type="text"] {
+	.support input[type="email"] {
 	  width: 60%;
 	  }
 		.banner-info p {
@@ -1375,7 +1378,7 @@ color: #F81A2A;
 	  -webkit-background-size: cover;
 	  padding-top: 0.5em;
 	}
-	.support input[type="text"] {
+	.support input[type="email"] {
 	  width: 55%;
 	  padding: 11px;
 	  font-size: 13px;
@@ -1907,4 +1910,26 @@ label.mobile_menu {
 .callbacks_here a:after{
   background:#fff;
   border:2px solid #c71585;
+}
+#confirm-dialog-container a, #alert-dialog-container a,#alert-dialog-container span:nth-child(1) {
+	background : #F81A2A;
+	background-color : #F81A2A;
+}
+
+#alert-dialog-container a:hover {
+    color: #F81A2A;
+    background-color: #fff;
+    border: 1px solid;
+}
+
+#alert-dialog-container a:focus {
+    text-decoration : none;
+}
+
+#alert-dialog-container > div {
+    border: 1px solid #F81A2A;
+}
+
+#alert-dialog-container span:nth-child(1) {
+    padding-top: 5px;
 }
