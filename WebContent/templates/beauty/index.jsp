@@ -44,28 +44,28 @@
 								<div class="banner-info">
 									<h3>Coiffure</h3>
 									<label></label>
-									<p>Lorem Ipsum Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsumipsum dolor sit amet, consectetuer dolor sit.</p>
+									<p>Plusieurs variantes de coiffure sont possibles (chignons, boucles, anglaises) pour épouser la forme de votre visage</p>
 								</div>
 							</li>
 							<li>
 								<div class="banner-info">
 								   <h3>Soins du Corps</h3>
 								   <label></label>
-									<p>Lorem Ipsum Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsumipsum dolor sit amet, consectetuer dolor sit.</p>
+									<p>Nous le savons toutes, la beauté c'est un travail de tous les jours, pour être belle, il faut prendre soin de son corps au quotidien.</p>
 								</div>
 							</li>
 							<li>
 								<div class="banner-info">
 									<h3>Extensions de Cils</h3>
 									<label></label>
-									<p>Les extensions de cils, réalisées avec dextérité et minutie, consistent en l'application cil à cil d'extensions pour un résultat naturel et waterproof qui dure jusqu'à trois mois, avec des retouches toutes les trois semaines pour pallier la chute naturelle des cils.</p>
+									<p>Envie d'un style hollywoodien? Nos extensions de cheveux ou de cils sont faites pour vous pour un look détonant.</p>
 								</div>								
 							</li>
 							<li>
 								<div class="banner-info">
 									<h3>Maquillage</h3>
 									<label></label>
-									<p>Lorem Ipsum Maecenas tristique orci ac sem. Duis ultricies pharetra magna. Donec accumsan malesuada orci. Donec sit amet eros. Lorem ipsumipsum dolor sit amet, consectetuer dolor sit.</p>
+									<p>Offrez à votre visage un nouveau éclat. Selon votre style, nous avons tout ce qu'il vous faut pour révéler votre beauté au naturel.</p>
 								</div>								
 							</li>
 						</ul>
@@ -97,7 +97,7 @@
 			     <i class="s2"> </i>
 			     <div class="album-box">
 				   <h4>Soins du Corps</h4>
-				     <p>Nous le savons toutes, la beauté c'est un travail de tous les jours, pour être belle il faut prendre soin de son corps au quotidien.</p>
+				     <p>Nous le savons toutes, la beauté c'est un travail de tous les jours, pour être belle, il faut prendre soin de son corps au quotidien.</p>
 				 </div>
 			</div>
 			<div class="col-md-3 b-grids">
