@@ -432,7 +432,7 @@ font-family: cursive;
   font-family: cursive;
 }
  .album-box p {
-  color: #555;
+  color: #333;
   font-size: 1em;
   line-height: 1.7em;
   margin: 0.5em 0 0 0;
@@ -507,12 +507,12 @@ label.two{
 }
 h3.sub-text {
    margin: 0.5em 0 0 0;
-  color: #555;
+  color: #333;
   text-transform: uppercase;
   font-size: 1.5em;
 }
 .about p, .pricing p {
-   color: #555;
+   color: #333;
   font-size: 1em;
   line-height: 1.8em;
   margin: 0.5em 0 0 0;
@@ -660,7 +660,7 @@ figure.effect-jazz:hover p {
   font-weight:600;
 }
 .col-bottom p{
-    color: #555;
+    color: #333;
   font-size: 1em;
   line-height: 1.8em;
   margin: 0.5em 0 0 0;
