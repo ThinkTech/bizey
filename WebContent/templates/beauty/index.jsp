@@ -29,11 +29,11 @@
 						</label>
 						<input id="mobile_menu" type="checkbox">
 					   <ul class="nav">
-						<li><a class="active" href="${path}">Accueil</a></li>
-						<li><a>À PROPOS</a></li>
-						<li><a>Nos Services</a></li>  
-						<li><a>Nos Tarifs</a></li>   
-						<li><a>CONTACT</a></li>
+						<li><a class="active" href="#home">Accueil</a></li>
+						<li><a href="#welcome">À PROPOS</a></li>
+						<li><a href="#services">Nos Services</a></li>  
+						<li><a href="#pricing">Nos Tarifs</a></li>   
+						<li><a href="#contact">CONTACT</a></li>
 					  </ul>
 				 </div>
 				 <div class="clearfix"></div>
@@ -73,7 +73,7 @@
 		</div>
 	</div>
 <!--start-welcome-->
-	<div class="about">
+	<div id="welcome" class="about">
 	   <div class="container">
 		<h3 class="tittle">À PROPOS</h3>
 		<h3 class="sub-text">Bienvenue À Bizey</h3>
@@ -82,7 +82,7 @@
 	   </div>
     </div>
 <!--start-banner-bottom-->
-  <div class="banner-bottom-section">
+  <div id="services" class="banner-bottom-section">
 	<div class="container">
 	   <h3 class="tittle">Nos Services</h3>
 		<div class="banner-bottom-info">
@@ -159,7 +159,7 @@
 		   </div>
 		</div>
 		<!--start-pricing-->
-	<div class="pricing">
+	<div id="pricing" class="pricing">
 	   <div class="container">
 		<h3 class="tittle">Nos Tarifs</h3>
 		<p>Nous vous accueillons dans un espace privilégié spacieux et moderne afin de satisfaire vos besoins. Notre équipe avec son savoir-faire, fait preuve de rigueur, d'écoute et d'une grande technicité. La précision des finitions et le temps alloué à chaque étape pour ne rien négliger, nous  permettent de vous offrir un service performant et de haut de gamme.</p>
@@ -168,7 +168,7 @@
     </div>
     <div class="clearfix"> </div>
 		<!--news-->
-		<div class="news-section">
+		<div  class="news-section">
 			<div class="container">
 				<h3 class="tittle">Nouvelles</h3>
 				<div class="news-left">			
@@ -255,7 +255,7 @@
 	        </div>
 	    </div>
 	    <!--contact-->
-		<div class="contact">
+		<div id="contact" class="contact">
 			<div class="container">
 			 <h3 class="tittle two">Contact</h3>
 			<form>
@@ -356,6 +356,12 @@
 			<script type="text/javascript">
 								jQuery(document).ready(function($) {
 									$(".scroll").click(function(event){		
+										event.preventDefault();
+										$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+									});
+									$(".nav a").click(function(event){		
+										$(".nav a").removeClass("active");
+										$(this).addClass("active");
 										event.preventDefault();
 										$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 									});
