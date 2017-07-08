@@ -304,6 +304,7 @@ h1,h3,h4,h5{
 }	
 p{
 	margin:0;
+	text-align: justify;
 }
 ul{
 margin:0;
@@ -320,13 +321,13 @@ padding:0;
   font-size:4em;
   font-weight: 400;
   color: #c71585;
-font-family: 'Poiret One', cursive;
+font-family: cursive;
 }
 .logo a span {
   font-weight: 400;
   color: #fff;
   font-size: 1.1em;
-  font-family: 'Poiret One', cursive;
+  font-family: cursive;
   text-align: right;
   font-style: italic;
   margin: 0 0em 0 3em;
@@ -370,7 +371,7 @@ font-family: 'Poiret One', cursive;
  font-size: 4em;
   font-weight: 400;
   color: #fff;
-  font-family: 'Poiret One', cursive;
+  font-family: cursive;
 }
 .banner-info p {
  font-size: 1.1em;
@@ -429,7 +430,7 @@ font-family: 'Poiret One', cursive;
  font-size: 2em;
   font-weight: 400;
  color: #c71585;
-  font-family: 'Poiret One', cursive;
+  font-family: cursive;
 }
  .album-box p {
   color: #555;
@@ -488,14 +489,14 @@ i.s4 {
    background: url('../images/icons.png') no-repeat -213px -70px #00b29f;
 }
 /*--about--*/
-.about {
+.about,.pricing {
   padding:5em 0;
 }
 h3.tittle {
   font-size: 3.5em;
   font-weight: 400;
   color: #c71585;
-font-family: 'Poiret One', cursive;
+font-family: cursive;
 text-transform: uppercase;
 }
 label.two{
@@ -510,12 +511,13 @@ h3.sub-text {
   text-transform: uppercase;
   font-size: 1.5em;
 }
-.about p {
+.about p, .pricing p {
    color: #555;
   font-size: 1em;
   line-height: 1.8em;
   margin: 0.5em 0 0 0;
   width: 70%;
+  text-align: justify;
 }
 /*--hair-sectyion--*/
 .hair-section {
@@ -537,7 +539,7 @@ h3.sub-text {
   font-size:2em;
   font-weight: 400;
   color: #00b29f;
-font-family: 'Poiret One', cursive;
+font-family: cursive;
   line-height:1.8em;
 }
 /* Common style */
@@ -649,6 +651,7 @@ figure.effect-jazz:hover p {
 /*--news--*/
 .news-section {
   padding: 4em 0;
+  background-color: #F6F6F6;
 }
 .col-bottom h4{
     color: #00a996;
@@ -714,7 +717,7 @@ a.more:hover{
 	  font-size: 3em;
   line-height: 102px;
   margin-bottom: -24px;
-font-family: 'Poiret One', cursive;
+font-family: cursive;
   font-weight: 400;
 }
 .col-news-top .date-in .month-in label .month {
@@ -726,7 +729,7 @@ font-family: 'Poiret One', cursive;
 }
 /*--contact---*/
 .newsletter{
-  background: url(../images/bottom-bg.jpg)no-repeat;
+  background-color : #0e6d65;
   min-height: 400px;
   background-size: cover;
   -o-background-size: cover;
@@ -735,9 +738,75 @@ font-family: 'Poiret One', cursive;
   -webkit-background-size: cover;
      padding-top: 2.5em;
 }
-h3.tittle.two {
-  color: #fff;
+
+.newsletter h3.tittle {
+	color : #fff;
 }
+.contact{
+  background-color : #fff;
+  min-height: 400px;
+  background-size: cover;
+  -o-background-size: cover;
+  -moz-background-size: cover;
+  -ms-background-size: cover;
+  -webkit-background-size: cover;
+     padding-top: 2.5em;
+}
+
+.contact label {
+    display: block;
+    margin-right: 5px;
+    margin-bottom: 10px;
+    font-weight : bold;
+}
+
+.contact input[type=text],.contact input[type=email] {
+	width: 65%;
+    display: inline-block;
+    height: 43px;
+    margin-bottom: 15px;
+    background: #efdae5;
+    padding-left: 3px;
+    border: 1px solid #841212;
+}
+
+.contact span {
+	display : none;
+}
+
+.contact textarea {
+	width: 65%;
+    margin-top : 15px;
+    height: 150px;
+    margin-bottom: 16px;
+    display: block;
+    background : #efdae5;
+    padding-left: 3px;
+     border: 1px solid #841212;
+}
+
+.contact input[type=submit] {
+    font-family: Tahoma;
+    background: #c71585;
+    cursor: pointer;
+    display: block;
+    margin-left: 56%;
+    padding-top: 1px;
+    height: 42px;
+    width: 85px;
+    color: #fff;
+    font-size: 100%;
+    margin-bottom: 20px;
+    margin-top: 30px;
+    font-weight: bold;
+    border: 1px solid #841212;
+}
+
+.contact input[type=submit]:hover {
+	background: #fff;
+	color: #c71585;
+}
+
 .newslatter {
    margin-top: 3em;
 }
@@ -793,7 +862,7 @@ ul.f-icons li a.facebook:hover,ul.f-icons li a.twitter:hover,ul.f-icons li a.gg:
    border: 0;
   color: #fff;
   font-weight: 400;
-  font-size: 15px;
+  font-size: 13px;
   text-transform: uppercase;
   padding: 0.88em;
   text-align: center;
@@ -843,7 +912,7 @@ p.sub {
   text-transform: uppercase;
   font-weight: 400;
   color: #fff;
-  font-family: 'Poiret One', cursive;
+  font-family: cursive;
   letter-spacing: 2px;
 }
 .border2 {
@@ -1001,7 +1070,15 @@ color:#00b29f;
      margin-top: 1em;
   }
   .newsletter {
-	  background: url(../images/bottom-bg.jpg)no-repeat;
+	  min-height: 310px;
+	  background-size: cover;
+	  -o-background-size: cover;
+	  -moz-background-size: cover;
+	  -ms-background-size: cover;
+	  -webkit-background-size: cover;
+	  padding-top: 0.5em;
+	}
+	.contact {
 	  min-height: 310px;
 	  background-size: cover;
 	  -o-background-size: cover;
@@ -1034,7 +1111,7 @@ color:#00b29f;
 	  padding: 0;
 	  margin-top: 1em;
 	}
-	.about p {
+	.about p, .pricing p {
 	  font-size: 0.95em;
 	  }
 	  .grid {
@@ -1103,11 +1180,11 @@ color:#00b29f;
 	  background: #c71585;
 	  display: inline-block;
 	}
-	.about p {
+	.about p, .pricing p {
 	  font-size: 0.95em;
 	  width: 100%;
 	}
-	.about {
+	.about, .pricing {
 	  padding: 3em 0 4em 0;
 	}
 	.h-f {
@@ -1275,7 +1352,7 @@ color:#00b29f;
 	  width: 70%;
 	  }
 	  .support input[type="submit"] {
-		  font-size: 15px;
+		  font-size: 13px;
 		  padding: 0.88em;
 		  outline: none;
 		  width: 28%;
@@ -1400,7 +1477,7 @@ color:#00b29f;
 	.banner-bottom-info {
 	  padding:1.5em 0 1.5em 0;
 	}
-	.about {
+	.about, .pricing {
 	  padding: 1.5em 0 1.5em 0;
 	}
 	label.two {
@@ -1409,7 +1486,7 @@ color:#00b29f;
 	  background: #c71585;
 	  display: inline-block;
 	}
-	.about p {
+	.about, .pricing  {
 	  font-size: 0.9em;
 	  width: 100%;
 	  margin: 0;
@@ -1464,7 +1541,15 @@ color:#00b29f;
 	  padding: 1em 1em;
 	}
 	.newsletter {
-	  background: url(../images/bottom-bg.jpg)no-repeat;
+	  min-height: 255px;
+	  background-size: cover;
+	  -o-background-size: cover;
+	  -moz-background-size: cover;
+	  -ms-background-size: cover;
+	  -webkit-background-size: cover;
+	  padding-top: 0.5em;
+	}
+	.contact {
 	  min-height: 255px;
 	  background-size: cover;
 	  -o-background-size: cover;
@@ -1639,11 +1724,23 @@ input#mobile_menu { display: none; }
 	}
 }
 @media only screen and (max-width: 959px) {
+	.contact input[type=text],.contact input[type=email], .contact textarea {
+	   width : 50%;
+	}
+	.contact input[type=submit] {
+	   margin-left: 38%;
+	}
 	.nav > li > a{
 		padding:10px 12px;
 	}
 }
 @media only screen and (max-width:800px) {
+	.contact input[type=text],.contact input[type=email], .contact textarea {
+	   width : 70%;
+	}
+	.contact input[type=submit] {
+	   margin-left: 56.5%;
+	}
   .nav > li:nth-child(1) > a:hover{
   background:rgba(5, 158, 143, 0.62)!important;
  }
@@ -1931,6 +2028,12 @@ label.mobile_menu {
   margin: 0 .3em;
 }
 @media screen and (max-width: 600px) {
+	.contact input[type=text],.contact input[type=email], .contact textarea {
+	   width : 90%;
+	}
+	.contact input[type=submit] {
+	   margin-left: 58%;
+	}
   .callbacks_nav {
     top: 47%;
     }

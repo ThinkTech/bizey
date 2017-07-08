@@ -4,10 +4,16 @@
 <title>Institut Bizey</title>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
-<!--webfont-->
-<link href='http://fonts.googleapis.com/css?family=Poiret+One|Lily+Script+One|Raleway:400,300,500,600,200,700' rel='stylesheet' type='text/css'>
-<!--webfont-->
+<!--template.css-->
 <link href="templates/beauty/css/template.css" rel="stylesheet" type="text/css" media="all"/>
+ <link rel="shortcut icon" href="templates/beauty/images/banner.jpg"  sizes="32x32"/> 
+<meta property="og:type" content="website"/>
+ <meta property="og:url" content="https://bizey.mircloud.host"/>
+<meta property="og:title" content="Institut Bizey - Site Officiel"/>
+<meta property="og:description" content="Bienvenue sur le site officiel de l'institut Bizey"/>
+<meta property="og:image" content="${baseUrl}/templates/beauty/images/banner.jpg"/>
+<meta name="viewport" content="width=device-width, initial-scale=1"/>
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
 </head>
 <body>
 <div class="banner-bg" id="home">
@@ -97,7 +103,7 @@
 			<div class="col-md-3 b-grids">
 			      <i class="s3"> </i>
 			       <div class="album-box">
-				   <h4>Extensions de Cils</h4>
+				   <h4>Extensions</h4>
 				     <p>We are glad to welcome you in our store.We are glad to welcome you in our store.choosing our store.</p>
 				 </div>
 			</div>
@@ -117,7 +123,6 @@
     <div class="hair-section">
 	     <div class="container">
 		<h3 class="tittle">Styles de coiffure</h3>
-		  <h3 class="sub-text">Donec orci arcu id massa ac</h3>
 	           <div class="grid">
 			      <div class="col-md-4 h-f">
 					<figure class="effect-jazz">
@@ -153,6 +158,15 @@
 				</div>
 		   </div>
 		</div>
+		<!--start-pricing-->
+	<div class="pricing">
+	   <div class="container">
+		<h3 class="tittle">Nos Tarifs</h3>
+		<p>Nous vous accueillons dans un espace privilégié spacieux et moderne afin de satisfaire vos besoins. Notre équipe avec son savoir-faire, fait preuve de rigueur, d'écoute et d'une grande technicité. La précision des finitions et le temps alloué à chaque étape pour ne rien négliger, nous  permettent de vous offrir un service performant et de haut de gamme.</p>
+	   
+	   </div>
+    </div>
+    <div class="clearfix"> </div>
 		<!--news-->
 		<div class="news-section">
 			<div class="container">
@@ -219,7 +233,7 @@
 			</div>
 		</div>
 	<!--//news-->
-	<!--contact-->
+	<!--newsletter-->
 		<div class="newsletter">
 			<div class="container">
 			 <h3 class="tittle two">Social</h3>
@@ -240,6 +254,23 @@
 				   </div>
 	        </div>
 	    </div>
+	    <!--contact-->
+		<div class="contact">
+			<div class="container">
+			 <h3 class="tittle two">Contact</h3>
+			<form>
+			    <label>Nom Complet</label>
+		  		<input id="name" name="mail.author" placeholder="Entrer votre nom complet..." type="text">
+		  		<label>Email</label>
+		 		 <input id="email" name="mail.address" placeholder="Entrer votre email..." type="email">
+		 		 <label data-translation="subject">Sujet</label>
+		  		 <input id="subject" name="mail.subject" placeholder="Entrer votre sujet..." type="text">
+		  		 <label>Votre Message</label>
+		         <textarea id="message" name="mail.content" placeholder="Entrer votre message..."></textarea>
+  	             <input id="submit" type="submit" value="Envoyer">
+			</form>  	
+	        </div>
+	    </div>
 
 	<!--/start-footer-section-->
 			<div class="footer-section">
@@ -247,7 +278,6 @@
 					<div class="footer-grids wow bounceIn animated" data-wow-delay="0.4s">
 						<div class="col-md-3 footer-grid flickr">
 								<h4>flickr</h4>
-								<div class="border2"></div>
 								<div class="flickr-grids">
 										<div class="flickr-grid">
 											<a ><img src="templates/beauty/images/f1.jpg" alt=" " title="team" /></a>
@@ -274,16 +304,13 @@
 						</div>
 						<div class="col-md-3 footer-grid tags">
 						<h4>Partager</h4>
-						<div class="border2"></div>
 						<div class="share-this">
 					      <div class="sharethis-inline-share-buttons"></div>
 					     </div>
 						</div>
 						<div class="col-md-3 footer-grid">
 						<h4>Contact</h4>
-						<div class="border2"></div>
-						  <p>INSTITUT BIZEY</p>
-						  <p class="sub">Adresse : HLM 2 Rue 14 N°503 derrière la Mosquée Dakar Sénégal.</p>
+						  <p>Adresse : HLM 2 Rue 14 N°503 derrière la Mosquée Dakar Sénégal.</p>
 						  <p class="sub">Tél : 77 845 46 85 - 77 795 93 84</p>
 						  <p class="sub">Email : info@institutbizey.com</p>
 						</div>
