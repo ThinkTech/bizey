@@ -244,8 +244,6 @@
 					<ul class="f-icons">
 					<li><a  class="facebook"> </a></li>
 				    <li><a  class="twitter"> </a></li>
-					<li><a  class="gg"> </a></li>
-					<li><a  class="p"> </a></li>
 					<li><a  class="ins"> </a></li>
 					</ul>
 							<div class="clearfix"></div>
@@ -324,7 +322,7 @@
 	<!--//end-footer-section-->
 			<!--/start-copyright-section-->
 				<div class="copyright">
-					<p>&copy; 2017. Tous droits reservés | Conçu par <a href="http://w3layouts.com" target="_blank">W3layouts</a> et <a href="https://www.thinktech.sn" target="_blank">ThinkTech</a></p>
+					<p>&copy;2017. Tous droits reservés | Conçu par <a href="http://w3layouts.com" target="_blank">W3layouts</a> et <a href="https://www.thinktech.sn" target="_blank">ThinkTech</a></p>
 				</div>
 			<!--//end-copyright-section-->
 		<a href="#home" id="toTop" class="scroll" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
