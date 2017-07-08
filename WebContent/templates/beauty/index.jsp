@@ -43,7 +43,7 @@
 								<div class="banner-info">
 									<h3>Coiffure</h3>
 									<label></label>
-									<p>Plusieurs variantes de coiffure sont possibles (chignons, boucles, anglaises) pour épouser la forme de votre visage</p>
+									<p>Plusieurs variantes de coiffure sont possibles (chignons, boucles, anglaises...) pour épouser la forme de votre visage</p>
 								</div>
 							</li>
 							<li>
@@ -89,7 +89,7 @@
 					<i class="s1"> </i>
 					 <div class="album-box">
 				   <h4>Coiffure</h4>
-				     <p>Plusieurs variantes de coiffure sont possibles (chignons, boucles, anglaises) pour épouser la forme de votre visage...</p>
+				     <p>Plusieurs variantes de coiffure sont possibles (chignons, boucles, anglaises...) pour épouser la forme de votre visage...</p>
 				 </div>
 			</div>
 			<div class="col-md-3 b-grids">
@@ -161,8 +161,13 @@
 	<div id="pricing" class="pricing">
 	   <div class="container">
 		<h3 class="tittle">Nos Tarifs</h3>
-		<p>Nous vous accueillons dans un espace privilégié spacieux et moderne afin de satisfaire vos besoins. Notre équipe avec son savoir-faire, fait preuve de rigueur, d'écoute et d'une grande technicité. La précision des finitions et le temps alloué à chaque étape pour ne rien négliger, nous  permettent de vous offrir un service performant et de haut de gamme.</p>
-	   
+		<p>Nos prix sont nettement moins élevés que dans d'autres instituts et plusieurs méthodes de paiement sont disponibles.</p>
+	    <h4>Mode de paiment</h4>
+	    <ol>
+	     <li>Par espèce</li>
+	     <li>Par mandat ou chèque</li>
+	     <li>Par virement bancaire</li>
+	    </ol>
 	   </div>
     </div>
     <div class="clearfix"> </div>

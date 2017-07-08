@@ -410,18 +410,20 @@ font-family: cursive;
   background-color: #F6F6F6;
 }
 .b-grids {
-  border: 2px solid #c71585;
-  padding: 3.5em 2em;
-  text-align: center;
-  width: 274px;
-  height: 274px;
-  margin-right: 1%;
-  background-color: #fff1f8;
-  border-radius: 50%;
-  -webkit-border-radius: 50%;
-  -moz-border-radius: 50%;
-  -o-border-radius: 50%;
-  position: relative;
+    border: 2px solid #c71585;
+    padding: 3.5em 2em;
+    text-align: center;
+    width: 274px;
+    height: 274px;
+    margin-right: 1%;
+    background-color: #fff1f8;
+    border-radius: 50%;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -o-border-radius: 50%;
+    position: relative;
+    vertical-align: top;
+    display: inline-block;
  }
  .album-box h4{
  font-size: 2em;
@@ -495,6 +497,7 @@ h3.tittle {
   color: #c71585;
 font-family: cursive;
 text-transform: uppercase;
+    margin-bottom: 30px;
 }
 label.two{
    width: 7%;
@@ -805,6 +808,14 @@ font-family: cursive;
 	color: #F81A2A;
 }
 
+ol {
+	margin : 0;
+}
+
+ol li {
+	font-weight : bold;
+}
+
 .newslatter {
    margin-top: 3em;
 }
@@ -1014,14 +1025,6 @@ color: #F81A2A;
 	.banner-info {
 	  margin-top: 14%;
 	}
-	.b-grids {
-	  border: 2px solid #c71585;
-	  padding: 4em 2em;
-	  text-align: center;
-	  width: 274px;
-	  height: 274px;
-	  margin-right: 1%;
-	}
 }
 @media (max-width:1024px){
 	.banner-bg {
@@ -1049,12 +1052,9 @@ color: #F81A2A;
 	  border: 2px solid #c71585;
 	  padding: 2.3em 1em;
 	  text-align: center;
-	  width: 225px;
-	  height: 225px;
-	  margin-right: 1%;
 	}
 	.album-box h4 {
-	  font-size: 2.3em;
+	  font-size: 2em;
 	  padding: 11px 0 0 0;
 	}
 	i.s1, i.s2, i.s3, i.s4 {
@@ -1158,14 +1158,6 @@ color: #F81A2A;
 	  background: #711BAB;
 	  display: inline-block;
 	}
-	.b-grids {
-	   padding: 4em 2em;
-	  text-align: center;
-	  width: 265px;
-	  height: 267px;
-	  float: left;
-	  margin: 0 0 5em 4em;
-	}
 	.banner-bottom-info {
 	  padding: 2em 0 0em 0;
 	}
@@ -1240,16 +1232,7 @@ color: #F81A2A;
 	  color: #000!important;
 	}
 }
-@media (max-width:667px){
-	.b-grids {
-	  padding: 3em 2em;
-	  text-align: center;
-	  width: 238px;
-	  height: 238px;
-	  float: left;
-	  margin: 0 0 5em 4em;
-	}
-}
+
 @media (max-width:640px){
 	.top-nav {
 	  margin-top: 1em;
@@ -1278,14 +1261,6 @@ color: #F81A2A;
 	  -moz-background-size: cover;
 	  -ms-background-size: cover;
 	  -webkit-background-size: cover;
-	}
-	.b-grids {
-	  padding: 2em 1em;
-	  text-align: center;
-	  width: 218px;
-	  height: 218px;
-	  float: left;
-	  margin: 0 0 4em 3em;
 	}
 	.album-box p {
 	  font-size: 0.9em;
@@ -1330,21 +1305,9 @@ color: #F81A2A;
 	  top: -15%;
 	  left: 36%;
 	}
-	.b-grids {
-	  padding: 4em 1em;
-	  text-align: center;
-	  width: 275px;
-	  height: 275px;
-	  float: left;
-	  margin: 0 0 5em 6em;
-	}
 	.album-box h4 {
-	  font-size: 2.5em;
+	  font-size: 2em;
 	  padding: 17px 0 0 0;
-	}
-	.b-grids.lost {
-	  margin-right: 0;
-	  margin: 0 0 0em 6em;
 	}
 	.support input[type="text"] {
 	  width: 60%;
@@ -1394,18 +1357,6 @@ color: #F81A2A;
 	
 }
 @media (max-width:414px){
-	.b-grids {
-	  padding: 4em 1em;
-	  text-align: center;
-	  width: 275px;
-	  height: 275px;
-	  float: left;
-	  margin: 0 0 5em 3.5em;
-	}
-	.b-grids.lost {
-	  margin-right: 0;
-	  margin: 0 0 2em 3.5em;
-	}
 	.h-f {
 	  float: none;
 	  width: 95%;
@@ -1413,42 +1364,9 @@ color: #F81A2A;
 	  text-align: center;
 	}
 }
-@media (max-width:384px){
-	.b-grids {
-	  padding: 4em 1em;
-	  text-align: center;
-	  width: 275px;
-	  height: 275px;
-	  float: left;
-	  margin: 0 0 5em 2em;
-	}
-	.b-grids.lost {
-	  margin-right: 0;
-	  margin: 0 0 2em 2em;
-	}
-}
-@media (max-width:375px){
-	.b-grids {
-	  padding: 4em 1em;
-	  text-align: center;
-	  width: 275px;
-	  height: 275px;
-	  float: left;
-	  margin: 0 0 5em 2em;
-	}
-	.b-grids.lost {
-	  margin-right: 0;
-	  margin: 0 0 2em 2em;
-	}
-}
+
+
 @media (max-width:320px){
-    .b-grids {
-	  padding: 2em 1em;
-	  width: 225px;
-	  height: 225px;
-	  float: left;
-	  margin: 0 0 4em 1.5em;
-	}
 	i.s1, i.s2, i.s3, i.s4 {
 	  width: 70px;
 	  height: 70px;
@@ -1461,10 +1379,6 @@ color: #F81A2A;
 	}
 	.banner-info h3 {
 	  font-size: 2.1em;
-	}
-	.b-grids.lost {
-	  margin-right: 0;
-	  margin: 0 0 0em 1.5em;
 	}
 	.banner-bottom-info {
 	  padding:1.5em 0 1.5em 0;
