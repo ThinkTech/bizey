@@ -90,28 +90,28 @@
 					<i class="s1"> </i>
 					 <div class="album-box">
 				   <h4>Coiffure</h4>
-				     <p>We are glad to welcome you in our store.We are glad to welcome you in our store.choosing our store.</p>
+				     <p>Plusieurs variantes de coiffure sont possibles (chignons, boucles, anglaises) pour épouser la forme de votre visage...</p>
 				 </div>
 			</div>
 			<div class="col-md-3 b-grids">
 			     <i class="s2"> </i>
 			     <div class="album-box">
 				   <h4>Soins du Corps</h4>
-				     <p>We are glad to welcome you in our store.We are glad to welcome you in our store.choosing our store.</p>
+				     <p>Nous le savons toutes, la beauté c'est un travail de tous les jours, pour être belle il faut prendre soin de son corps au quotidien.</p>
 				 </div>
 			</div>
 			<div class="col-md-3 b-grids">
 			      <i class="s3"> </i>
 			       <div class="album-box">
 				   <h4>Extensions</h4>
-				     <p>We are glad to welcome you in our store.We are glad to welcome you in our store.choosing our store.</p>
+				     <p>Envie d'un style hollywoodien? Nos extensions de cheveux ou de cils sont faites pour vous pour un look détonant.</p>
 				 </div>
 			</div>
 			<div class="col-md-3 b-grids lost">
 			 <i class="s4"> </i>
 			        <div class="album-box">
 				   <h4>Maquillage</h4>
-				     <p>We are glad to welcome you in our store.We are glad to welcome you in our store.choosing our store.</p>
+				     <p>Offrez à votre visage un nouveau éclat. Selon votre style, nous avons tout ce qu'il vous faut pour révéler votre beauté au naturel.</p>
 				 </div>
 			</div>
 			<div class="clearfix"></div>
