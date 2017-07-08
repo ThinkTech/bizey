@@ -309,7 +309,7 @@
 						</div>
 						<div class="col-md-3 footer-grid">
 						<h4>Contact</h4>
-						  <p>Adresse : HLM 2 Rue 14 N°503 derrière la Mosquée Dakar Sénégal.</p>
+						  <p>Adresse : HLM 2 Rue 14 N°503 derrière la Mosquée. Dakar, Sénégal.</p>
 						  <p class="sub">Tél : 77 845 46 85 - 77 795 93 84</p>
 						  <p class="sub">Email : info@institutbizey.com</p>
 						</div>
