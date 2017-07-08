@@ -29,7 +29,6 @@
 						</label>
 						<input id="mobile_menu" type="checkbox">
 					   <ul class="nav">
-						<li><a class="active" href="#home">Accueil</a></li>
 						<li><a href="#welcome">À PROPOS</a></li>
 						<li><a href="#services">Nos Services</a></li>  
 						<li><a href="#pricing">Nos Tarifs</a></li>   
