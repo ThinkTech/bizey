@@ -57,7 +57,7 @@
 							</li>
 							<li>
 								<div class="banner-info">
-									<h3>Extensions de Cils</h3>
+									<h3>Extensions</h3>
 									<label></label>
 									<p>Envie d'un style hollywoodien? Nos extensions de cheveux ou de cils sont faites pour vous pour un look détonant.</p>
 								</div>								
