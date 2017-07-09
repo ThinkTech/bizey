@@ -31,7 +31,7 @@
 						</label>
 						<input id="mobile_menu" type="checkbox">
 					   <ul class="nav">
-						<li><a href="#welcome" class="active">Accueil</a></li>
+						<li><a href="#welcome">À PROPOS</a></li>
 						<li><a href="#services">Nos Services</a></li>  
 						<li><a href="#pricing">Nos Tarifs</a></li>   
 						<li><a href="#contact">CONTACT</a></li>
@@ -363,11 +363,10 @@
 								jQuery(document).ready(function($) {
 									$(".scroll").click(function(event){		
 										event.preventDefault();
+										$(".nav a").removeClass("active");
 										$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 									});
 									$(".nav a").click(function(event){		
-										$(".nav a").removeClass("active");
-										$(this).addClass("active");
 										event.preventDefault();
 										$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 									});
@@ -375,10 +374,8 @@
 									const subscribeForm = $(".support form");
 									subscribeForm.submit(function(event){
 										event.preventDefault();
-										console.log("here");
 										const input = $('input[type="email"]',subscribeForm);
 										const val = input.val();
-										console.log(val);
 										if(val.trim() == '') {
 											const message = "Vous devez entrer votre email";
 											alert(message,function(){
