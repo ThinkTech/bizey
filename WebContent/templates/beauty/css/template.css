@@ -370,16 +370,18 @@ font-family: cursive;
 .banner-info h3 {
  font-size: 4em;
   font-weight: 400;
-  color: #fff;
+  color: #2b2927;
   font-family: cursive;
 }
 .banner-info p {
  font-size: 1.1em;
-  font-weight: 400;
-  color: #fff;
-  margin: 0.5em 0 0;
-  width: 50%;
-  line-height: 1.8em;
+    font-weight: 400;
+    color: #ffffff;
+    margin: 0.5em 0 0;
+    width: 50%;
+    line-height: 1.8em;
+    padding: 1% 3%;
+    background: #f25d9d;
 }
 .callbacks_container {
   position: relative;
@@ -759,7 +761,7 @@ font-family: cursive;
     margin-bottom: 15px;
     background: #fff1f8;
     padding-left: 3px;
-    border: 1px solid #F81A2A;
+    border: 1px solid #f25d9d;
     font-family : Tahoma;
 }
 
@@ -771,7 +773,7 @@ font-family: cursive;
     display: block;
     background : #fff1f8;
     padding-left: 3px;
-    border: 1px solid #F81A2A;
+    border: 1px solid #f25d9d;
     font-family : Tahoma;
     padding : 5px;
     padding-left : 2px;
@@ -779,7 +781,7 @@ font-family: cursive;
 
 .contact input[type=submit] {
     font-family: Tahoma;
-    background: #F81A2A;
+    background: #f25d9d;
     cursor: pointer;
     display: block;
     margin-left: 53%;
@@ -791,12 +793,12 @@ font-family: cursive;
     margin-bottom: 20px;
     margin-top: 30px;
     font-weight: bold;
-    border: 1px solid #F81A2A;
+    border: 1px solid #f25d9d;
 }
 
 .contact input[type=submit]:hover {
 	background: #fff;
-	color: #F81A2A;
+	color: #f25d9d;
 }
 
 ol {
@@ -939,7 +941,7 @@ h3, h4, h5 {
   font-size:1em;
 }
 .copyright p a{
-color: #F81A2A;
+color: #f25d9d;
 }
 /*--top-move--*/
 #toTop {
@@ -1480,7 +1482,7 @@ ul.nav{
 .nav > li > a {
    padding: .5em 1em .5em 1em;
   display: block;
-  color: #fff;
+  color: #2b2927;
   margin: 0;
   font-size: 1.1em;
   font-weight: 600;
@@ -1915,12 +1917,12 @@ label.mobile_menu {
   border:2px solid #c71585;
 }
 #confirm-dialog-container a, #alert-dialog-container a,#alert-dialog-container span:nth-child(1) {
-	background : #F81A2A;
-	background-color : #F81A2A;
+	background : #f25d9d;
+	background-color : #f25d9d;
 }
 
 #alert-dialog-container a:hover {
-    color: #F81A2A;
+    color: #f25d9d;
     background-color: #fff;
     border: 1px solid;
 }
@@ -1930,7 +1932,7 @@ label.mobile_menu {
 }
 
 #alert-dialog-container > div {
-    border: 1px solid #F81A2A;
+    border: 1px solid #f25d9d;
 }
 
 #alert-dialog-container span:nth-child(1) {

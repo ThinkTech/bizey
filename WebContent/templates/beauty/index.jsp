@@ -52,7 +52,7 @@
 								<div class="banner-info">
 								   <h3>Soins du Corps</h3>
 								   <label></label>
-									<p>Nous le savons toutes, la beauté c'est un travail de tous les jours, pour être belle, il faut prendre soin de son corps au quotidien.</p>
+									<p>Nous le savons toutes, la beauté c'est un travail de tous les jours. Pour être belle, il faut prendre soin de son corps au quotidien.</p>
 								</div>
 							</li>
 							<li>
@@ -76,7 +76,7 @@
 <!--start-welcome-->
 	<div id="welcome" class="about">
 	   <div class="container">
-		<h3 class="tittle">Bienvenue À Bizey</h3>
+		<h3 class="tittle">Bienvenue Chez Bizey</h3>
 		<p>Bizey est un institut de Beauté qui s'active fortement dans les domaines de la Coiffure, de l'Onglerie, des Soins du Corps et du Maquillage Professionnel ainsi que tous les services similaires. Nous vous accueillons dans un espace privilégié spacieux et moderne afin de satisfaire vos besoins. Notre équipe avec son savoir-faire, fait preuve de rigueur, d'écoute et d'une grande technicité. La précision des finitions et le temps alloué à chaque étape pour ne rien négliger, nous  permettent de vous offrir un service performant et de haut de gamme.</p>
 	   
 	   </div>
@@ -97,7 +97,7 @@
 			     <i class="s2"> </i>
 			     <div class="album-box">
 				   <h4>Soins du Corps</h4>
-				     <p>Nous le savons toutes, la beauté c'est un travail de tous les jours, pour être belle, il faut prendre soin de son corps au quotidien.</p>
+				     <p>Nous le savons toutes, la beauté c'est un travail de tous les jours. Pour être belle, il faut prendre soin de son corps au quotidien.</p>
 				 </div>
 			</div>
 			<div class="col-md-3 b-grids">
