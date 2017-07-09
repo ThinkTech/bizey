@@ -281,43 +281,17 @@
 			<div class="footer-section">
 				<div class="container">
 					<div class="footer-grids wow bounceIn animated" data-wow-delay="0.4s">
-						<div class="col-md-3 footer-grid flickr">
-								<h4>flickr</h4>
-								<div class="flickr-grids">
-										<div class="flickr-grid">
-											<a ><img src="templates/beauty/images/f1.jpg" alt=" " title="team" /></a>
-										</div>
-										<div class="flickr-grid">
-											<a ><img src="templates/beauty/images/f2.jpg" alt=" " title="team" /></a>
-										</div>
-										<div class="flickr-grid">
-											<a ><img src="templates/beauty/images/f1.jpg" alt=" " title="team" /></a>
-										</div>
-										<div class="clearfix"> </div>
-										
-										<div class="flickr-grid">
-											<a ><img src="templates/beauty/images/f3.jpg" alt=" " title="team" /></a>
-										</div>
-										<div class="flickr-grid">
-											<a ><img src="templates/beauty/images/f2.jpg" alt=" " title="team" /></a>
-										</div>
-										<div class="flickr-grid">
-											<a ><img src="templates/beauty/images/f4.jpg" alt=" " title="team" /></a>
-										</div>
-								<div class="clearfix"> </div>
-							</div>
+						<div class="col-md-3 footer-grid">
+						<h4>Adresse</h4>
+						  <p>HLM 2 Rue 14 N°503 derrière la Mosquée. Dakar, Sénégal.</p>
+						  <p class="sub">Tél : 77 845 46 85 - 77 795 93 84</p>
+						  <p class="sub">Email : info@institutbizey.com</p>
 						</div>
 						<div class="col-md-3 footer-grid tags">
 						<h4>Partager</h4>
 						<div class="share-this">
 					      <div class="sharethis-inline-share-buttons"></div>
 					     </div>
-						</div>
-						<div class="col-md-3 footer-grid">
-						<h4>Contact</h4>
-						  <p>Adresse : HLM 2 Rue 14 N°503 derrière la Mosquée. Dakar, Sénégal.</p>
-						  <p class="sub">Tél : 77 845 46 85 - 77 795 93 84</p>
-						  <p class="sub">Email : info@institutbizey.com</p>
 						</div>
 						<div class="clearfix"></div>
 					</div>
