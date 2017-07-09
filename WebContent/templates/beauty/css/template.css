@@ -316,7 +316,7 @@ padding:0;
   right: 25%;
   position: relative;
   float : right;
-  z-index: 999999999;
+  z-index: 999;
 }
 .logo a{
 	display:block;
@@ -326,6 +326,7 @@ padding:0;
   font-weight: 400;
   color: #c71585;
 font-family: cursive;
+margin-bottom: 10px;
 }
 .logo a span {
     color: #f25d9d;
@@ -358,6 +359,7 @@ font-family: cursive;
 .top-nav{
 	float:right;
 	margin-top: 0px;
+	right: -225px;
 }
  /*--slide--*/
 .banner-info {
@@ -1458,9 +1460,7 @@ ul.nav{
 .nav > li:nth-child(1) > a:hover {
   background: none !important;
 }
-.nav li a:hover {
-  color:#c71585!important;
-}
+
 /* Link Style */
 .nav > li > a {
    padding: .5em 1em .5em 1em;
@@ -1631,7 +1631,6 @@ label.mobile_menu {
 .nav > li:nth-child(1) > a {
   background:#c71585;
   border-bottom:1px ridge rgba(37, 111, 81, 0.99);
-  color: #fff;
   background: url(../images/menu-arrow.png) no-repeat 97% 48% #c71585;
 }
 .nav li a:hover {
