@@ -1001,7 +1001,11 @@ color: #f25d9d;
 	.banner-info p {
 	  width: 70%;
 	}
+	.top-nav {
+    right: -170px;
 }
+}
+
 @media (max-width:1024px){
 	.banner-bg {
 	  background: url(../images/banner.jpg)no-repeat;
@@ -1091,7 +1095,15 @@ color: #f25d9d;
 	.col-bottom h4 {
   font-size: 1.3em;
   }
+  
 }
+
+@media (max-width:990px){
+	.top-nav {
+    right: -200px;
+}
+}
+
 @media (max-width:768px){
 	.top-nav {
 	  margin-top: 1px;
@@ -1572,6 +1584,8 @@ input#mobile_menu { display: none; }
 	  margin-top: 10px;
 	  margin-bottom: 0;
 	  cursor: pointer;
+	  margin-right: 43px;
+    float: right;
 	}
 	.nav {
 		padding: 0;
