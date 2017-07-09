@@ -265,7 +265,7 @@
 		<div id="contact" class="contact">
 			<div class="container">
 			 <h3 class="tittle two">Contact</h3>
-			<form>
+			<form method="post" action="contact">
 			    <label>Nom Complet</label>
 		  		<input id="name" name="mail.author" placeholder="Entrer votre nom complet..." type="text" data-info="Vous devez entrer votre nom complet">
 		  		<label>Email</label>
@@ -391,15 +391,12 @@
 									$.ajax({
 										url: contactForm.attr('action'),
 										type : 'POST',
-										data : contactForm.serialize(),
-										beforeSend: function(){
-											contactForm.addClass("animated infinite pulse");
-										}
+										data : contactForm.serialize()
 									}).done(function(data){
-										contactForm.removeClass("animated infinite pulse").fadeOut();
-										$("input[type=text],input[type=email],textarea",contactForm).val("");
+										alert("votre message a été bien envoyé.");
+										$("input[type=text],input[type=email],textarea",contactForm).val("")
 									}).fail(function(data){
-										contactForm.removeClass("animated infinite pulse");
+										alert("erreur lors de l'envoi du message.");
 									});
 								});
 								</script>
