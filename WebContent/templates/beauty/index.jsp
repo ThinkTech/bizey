@@ -18,6 +18,8 @@
  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
 </head>
 <body>
+ <!-- scroll to top  -->   
+  <a class="scrollToTop" href="#"><i class="fa fa-angle-up"></i></a>
 <div class="banner-bg" id="home">
 	  <div class="container">
 			 <div class="header">
@@ -302,8 +304,7 @@
 				<div class="copyright">
 					<p>&copy;2017. Tous droits reservés | Conçu par <a href="http://w3layouts.com" target="_blank">W3layouts</a> et <a href="https://www.thinktech.sn" target="_blank">ThinkTech</a></p>
 				</div>
-			<!--//end-copyright-section-->
-		<a href="#home" id="toTop" class="scroll" style="display: block;"> <span id="toTopHover" style="opacity: 1;"> </span></a>
+			
 <!-- javascript -->
 <script src="templates/beauty/js/jquery.min.js"></script>
 <script src="js/metamorphosis.js"></script>
