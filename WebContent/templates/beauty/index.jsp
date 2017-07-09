@@ -345,7 +345,14 @@
 										event.preventDefault();
 										$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
 									});
+									const items = ['rotateIn','flipInX','lightSpeedIn','rotateIn','rollIn','zoomIn','slideInUp','bounceInUp','pulse','rubberBand','shake','headshake'
+						  			               ,'jackInTheBox','flash','swing','fadeInUpBig','rotateInDownLeft','rotateInDownRight','rotateInUpLeft','rotateInUpRight',
+						  			               'zoomInDown','zoomInLeft','zoomInRight','zoomInUp','bounceIn','bounceInDown',
+						  			               'bounceInLeft','bounceInRight','bounceInUp'];
+						            $(".logo h1").addClass("animated "+items[Math.floor(Math.random()*items.length)]);
+						            $(".logo span").addClass("animated "+items[Math.floor(Math.random()*items.length)]);
 									$('.banner-bg').animate({opacity:1},1000);
+									$(".nav a").addClass("animated slideInDown");
 									const subscribeForm = $(".support form");
 									subscribeForm.submit(function(event){
 										event.preventDefault();
