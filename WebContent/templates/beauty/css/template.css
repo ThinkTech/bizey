@@ -1942,3 +1942,8 @@ label.mobile_menu {
 #alert-dialog-container span:nth-child(1) {
     padding-top: 5px;
 }
+
+#loader {
+    border-top: 16px solid #f03f7d;
+    margin : auto;
+}
