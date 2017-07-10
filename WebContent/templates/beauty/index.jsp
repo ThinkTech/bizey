@@ -36,6 +36,7 @@
 						<li><a href="#welcome">À PROPOS</a></li>
 						<li><a href="#services">Nos Services</a></li>  
 						<li><a href="#pricing">Nos Tarifs</a></li>   
+						<li><a href="#schedules">Nos Horaires</a></li> 
 						<li><a href="#contact">CONTACT</a></li>
 					  </ul>
 				 </div>
@@ -171,6 +172,24 @@
 	     <li>Par mandat ou chèque</li>
 	     <li>Par virement bancaire</li>
 	    </ol>
+	   </div>
+    </div>
+    <div class="clearfix"> </div>
+    	<!--start-schedules-->
+	<div id="schedules" class="schedules">
+	   <div class="container">
+		<h3 class="tittle">Nos Horaires</h3>
+		<p>Nos horaires d'ouverture sont les suivantes : </p>
+		<br>
+		<uL>
+		  <li><span>lundi</span> 10:00-20:00</li>
+		  <li><span>mardi</span> 10:00-20:00</li>
+		  <li><span>mercredi</span> 10:00-20:00</li>
+		  <li><span>jeudi</span> 10:00-20:00</li>
+		  <li><span>vendredi</span> 10:00-20:00</li>
+		  <li><span>samedi</span> 10:00-20:00</li>
+		  <li><span>dimanche</span> 10:00-20:00</li>
+	  </uL>
 	   </div>
     </div>
     <div class="clearfix"> </div>

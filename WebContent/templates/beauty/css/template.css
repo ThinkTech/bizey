@@ -511,9 +511,14 @@ i.s4 {
    background: url('../images/icons.png') no-repeat -213px -70px #711BAB;
 }
 /*--about--*/
-.about,.pricing {
+.about,.pricing,.schedules {
   padding:5em 0;
 }
+
+.schedules {
+	background-color: #F6F6F6;
+}
+
 h3.tittle {
   font-size: 2.75em;
   font-weight: 400;
@@ -662,7 +667,7 @@ figure.effect-jazz:hover p {
 /*--news--*/
 .news-section {
   padding: 4em 0;
-  background-color: #F6F6F6;
+  background-color: #fff;
 }
 .col-bottom h4{
     color: #711BAB;
@@ -819,12 +824,17 @@ font-family: cursive;
 	color: #f25d9d;
 }
 
-ol {
+.pricing ol,.schedules ul {
 	margin : 0;
 	margin-left : 3%;
 }
 
-ol li {
+.schedules ul li span {
+	width: 163px;
+    display: inline-block;
+}
+
+ol li,ul li {
 	font-weight : bold;
 }
 
@@ -1100,7 +1110,7 @@ color: #f25d9d;
 
 @media (max-width:990px){
 	.top-nav {
-    right: -200px;
+    right: -70px;
 }
 }
 
