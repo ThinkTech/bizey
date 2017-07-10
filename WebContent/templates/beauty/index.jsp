@@ -289,7 +289,17 @@
 						  <p class="sub">Tél : +221 33 825 95 49 - +221 77 845 46 85</p>
 						  <p class="sub">Email : info@institutbizey.com</p>
 						</div>
-						<div class="col-md-3 footer-grid tags">
+						<div class="col-md-3 footer-grid">
+						<h4>Horaires</h4>
+						  <p>lundi 10:00-20:00</p>
+						  <p>mardi 10:00-20:00</p>
+						  <p>mercredi 10:00-20:00</p>
+						  <p>jeudi 10:00-20:00</p>
+						  <p>vendredi 10:00-20:00</p>
+						  <p>samedi 10:00-20:00</p>
+						  <p>dimanche 10:00-20:00</p>
+						</div>
+						<div class="col-md-3 footer-grid">
 						<h4>Partager</h4>
 						<div class="share-this">
 					      <div class="sharethis-inline-share-buttons"></div>
