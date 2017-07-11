@@ -126,20 +126,11 @@ body {
 input {
   line-height: inherit;
 }
+
 a {
-  color: #1B242F;
-  text-decoration: none;
+    color: #f25d9d;
 }
-a:hover,
-a:focus {
-  color: #E74C3C;
-  text-decoration: underline;
-}
-a:focus {
-  outline: thin dotted;
-  outline: 5px auto -webkit-focus-ring-color;
-  outline-offset: -2px;
-}
+
 figure {
   margin: 0;
 }
@@ -527,7 +518,7 @@ font-family: cursive;
 text-transform: uppercase;
     margin-bottom: 8px;
 }
-.about p, .pricing p {
+.about p, .pricing p, .contact p {
    color: #333;
   font-size: 1em;
   line-height: 1.8em;
@@ -767,6 +758,10 @@ font-family: cursive;
   -ms-background-size: cover;
   -webkit-background-size: cover;
      padding-top: 2.5em;
+}
+
+.contact form {
+	margin-top : 20px;
 }
 
 .contact label {
@@ -1096,7 +1091,7 @@ color: #f25d9d;
 	  padding: 0;
 	  margin-top: 1em;
 	}
-	.about p, .pricing p {
+	.about p, .pricing p, .contact p {
 	  font-size: 0.95em;
 	  }
 	  .grid {
@@ -1153,7 +1148,7 @@ color: #f25d9d;
 	.banner-bottom-section {
       padding: 4em 0 0 0;
     }
-	.about p, .pricing p {
+	.about p, .pricing p, .contact p {
 	  font-size: 0.95em;
 	  width: 100%;
 	}
@@ -1457,10 +1452,6 @@ color: #f25d9d;
    }
 }
 
-a:hover{
-  color: #fff;
-  text-decoration:none;
-}
 label.mobile_menu span {
 	  margin-left: 10px;
 	  color:#FFF;

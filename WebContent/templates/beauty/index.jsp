@@ -284,6 +284,9 @@
 		<div id="contact" class="contact">
 			<div class="container">
 			 <h3 class="tittle two">Contact</h3>
+			 <p>L'institut de beauté Bizey est au <b>HLM 2 Rue 14 N°503 derrière la Mosquée. Dakar, Sénégal.</b></p>
+			 <p>Vous pouvez nous joindre au <b>+221 33 825 95 49</b> ou au <b>+221 77 845 46 85</b> pour prendre rendez-vous.</p>
+			  <p>Comme aussi, vous pouvez nous envoyer un mail à <a href="mailto:info@institutbizey.com">info@institutbizey.com</a> ou utiliser le formulaire ci-dessous.</p>
 			<form method="post" action="contact">
 			    <label>Nom Complet</label>
 		  		<input id="name" name="mail.author" placeholder="Entrer votre nom complet..." type="text" data-info="Vous devez entrer votre nom complet">
