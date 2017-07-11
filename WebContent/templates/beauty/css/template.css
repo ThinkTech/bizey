@@ -659,6 +659,7 @@ figure.effect-jazz:hover p {
 .news-section {
   padding: 4em 0;
   background-color: #fff;
+  display : none;
 }
 .col-bottom h4{
     color: #711BAB;
