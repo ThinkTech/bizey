@@ -36,8 +36,8 @@ a:active,
 a:hover {
   outline: 0;
 }
-.nav li a.active, .nav li a:hover {
-  color:#c71585!important;
+.nav li a:visited, .nav li a.active, .nav li a:hover {
+  color:#2b2927;
 }
 h1 {
   margin: .67em 0;
@@ -316,7 +316,7 @@ padding:0;
 }
 /*----*/
 .logo {
-  margin-top: 60px;
+  margin-top: 80px;
   right: 15%;
   position: relative;
   float : right;
@@ -1482,36 +1482,25 @@ ul.nav{
   float: left;
   background: none; 
 }
-.nav > li:nth-child(1) > a:hover {
-  background: none !important;
-}
-
 
 /* Link Style */
 .nav > li > a {
    padding: .5em 1em .5em 1em;
   display: block;
-  color: #2b2927;
-  margin: 0;
-  font-size: 1.1em;
+  color: #ecebe9;
+  margin: 5px;
+  font-size: 1em;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 1px;
   border-style: solid;
-  background: none;
   font-family: 'Raleway', sans-serif;
   border: none;
+  background: #f25d9d;
 }
-.nav > li:nth-child(1) > a{
-	background:none;
-}
-.nav > li:nth-child(1) > a:hover{
-  color: #fff;
-}
+
 .nav > li:hover > a{
-	color:#711BAB;
-	border-color:none;
-	background: url(../images/menu-arrow-hover.png) no-repeat 103% 54%;
+	background: #fff;
 }
 /* Simple multilevel dropdown */
 /* First level appear */
