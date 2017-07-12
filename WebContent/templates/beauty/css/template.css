@@ -367,7 +367,7 @@ margin-bottom: 10px;
 }
  /*--slide--*/
 .banner-info {
-  margin-top:20%;
+  margin-top:18%;
 
 }
 .banner-info label{
@@ -1002,7 +1002,7 @@ color: #f25d9d;
 	  -webkit-background-size: cover;
 	}
 	.banner-info {
-     margin-top: 10%;
+     margin-top: 13%;
     }
 	.banner-info p {
 	  width: 70%;
@@ -1113,6 +1113,9 @@ color: #f25d9d;
 @media (max-width:990px){
 	.top-nav {
     right: -25px;
+}
+.banner-info {
+    margin-top: 8%;
 }
 }
 
@@ -1257,7 +1260,7 @@ color: #f25d9d;
 	  padding: 0;
 	}
 	.logo a h1 {
-	  font-size: 3.5em;
+	  font-size: 2.5em;
 	}
 	i.s1, i.s2, i.s3, i.s4 {
 	  width: 70px;
@@ -1427,7 +1430,7 @@ color: #f25d9d;
 	  -webkit-background-size: cover;
 	}
 	.logo a h1 {
-	   font-size: 2.8em;
+	   font-size: 1.8em;
 	}
 	.logo a span {
 	  font-size: 0.9em;
