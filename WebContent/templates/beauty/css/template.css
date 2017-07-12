@@ -317,7 +317,7 @@ padding:0;
 /*----*/
 .logo {
   margin-top: 60px;
-  right: 25%;
+  right: 15%;
   position: relative;
   float : right;
   z-index: 999;
@@ -1008,7 +1008,11 @@ color: #f25d9d;
 	  width: 70%;
 	}
 	.top-nav {
-    right: -170px;
+    right: -25px;
+    margin-top : -15px;
+}
+  .logo {
+  right: 5%;
 }
 }
 
