@@ -272,7 +272,7 @@
 							<div class="clearfix"></div>
 							<div class="support">
 							  <form>
-							   <input type="email" class="text" placeholder="Entrer votre email..." onfocus="this.value = '';" onblur="if (this.value == 'Enter email...') {this.value = 'Enter email...';}">
+							   <input type="email" name="email" class="text" placeholder="Entrer votre email...">
 							   <input type="submit" value="ABONNER" class="botton">
 							   </form>
 							</div>
