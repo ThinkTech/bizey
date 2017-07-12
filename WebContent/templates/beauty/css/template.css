@@ -1017,7 +1017,7 @@ color: #f25d9d;
 
 @media (max-width:1024px){
 	.top-nav {
-	  right: -30px;
+	  right: 0px;
 	}
 	.banner-bg {
 	  background: url(../images/banner.jpg)no-repeat;
@@ -1527,9 +1527,6 @@ input#mobile_menu { display: none; }
 	}
 }
 @media (max-width: 1024px){
-	.nav > li > a {
-	  padding: .3em .5em .2em .5em;
-	  }
 	.nav > li {
 	  margin: 0 8px;
 	}
