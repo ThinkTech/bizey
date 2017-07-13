@@ -34,7 +34,7 @@ jQuery(document).ready(
 			$(".logo span").addClass("animated "+ items[Math.floor(Math.random() * items.length)]);
 			$('.banner-bg').animate({opacity : 1}, 2000);
 			$(".nav a").addClass("animated slideInDown");
-			const subscribeForm = $(".support form");
+			const subscribeForm = $(".newsletter form");
 			subscribeForm.submit(function(event) {
 				event.preventDefault();
 				const input = $('input[type="email"]', subscribeForm);
@@ -52,7 +52,7 @@ jQuery(document).ready(
 					data : subscribeForm.serialize()
 				}).done(function(data) {
 					$("input[type=text]",subscribeForm).val("");
-					alert("votre email a été bien enregistré.");
+					alert("votre email a &edot;t&edot; bien enregistr&edot;.");
 				}).fail(function(data) {
 					alert("erreur lors de l'abonnement.");
 				});
@@ -78,7 +78,7 @@ contactForm.submit(function(event) {
 		type : 'POST',
 		data : contactForm.serialize()
 	}).done(function(data) {
-		alert("votre message a été bien envoyé.");
+		alert("votre message a &edot;t&edot; bien envoy&edot;.");
 		$("input[type=text],input[type=email],textarea", contactForm).val("")
 	}).fail(function(data) {
 		alert("erreur lors de l'envoi du message.");

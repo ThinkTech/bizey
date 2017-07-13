@@ -2,6 +2,7 @@
 <html>
 <head>
 <title>Institut Bizey</title>
+<meta charset='utf-8'>
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!--template.css-->
@@ -271,8 +272,8 @@
 					</ul>
 							<div class="clearfix"></div>
 							<div class="support">
-							  <form>
-							   <input type="email" name="email" class="text" placeholder="Entrer votre email...">
+							  <form action="newsletter">
+							   <input type="email" name="mail.address" class="text" placeholder="Entrer votre email...">
 							   <input type="submit" value="ABONNER" class="botton">
 							   </form>
 							</div>
