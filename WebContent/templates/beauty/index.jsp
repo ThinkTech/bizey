@@ -49,7 +49,7 @@
 								<div class="banner-info">
 									<h3>Coiffure</h3>
 									<label></label>
-									<p>Plusieurs variantes de coiffure sont possibles (chignons, boucles, anglaises...) pour épouser la forme de votre visage</p>
+									<p>Plusieurs variantes de coiffure sont possibles (chignons, boucles anglaises, tresses américaines, tissage...) pour épouser la forme de votre visage.</p>
 								</div>
 							</li>
 							<li>
@@ -94,7 +94,7 @@
 					<i class="s1"> </i>
 					 <div class="album-box">
 				   <h4>Coiffure</h4>
-				     <p>Plusieurs variantes de coiffure sont possibles (chignons, boucles, anglaises...) pour épouser la forme de votre visage...</p>
+				     <p>Plusieurs variantes de coiffure sont possibles (chignons, boucles anglaises, tresses américaines, tissage...) pour épouser la forme de votre visage.</p>
 				 </div>
 			</div>
 			<div class="col-md-3 b-grids">
@@ -182,15 +182,14 @@
 		<h3 class="tittle">Nos Horaires</h3>
 		<p>Nos horaires d'ouverture sont les suivantes : </p>
 		<br>
-		<uL>
-		  <li><span>lundi</span> 10:00-20:00</li>
-		  <li><span>mardi</span> 10:00-20:00</li>
-		  <li><span>mercredi</span> 10:00-20:00</li>
-		  <li><span>jeudi</span> 10:00-20:00</li>
-		  <li><span>vendredi</span> 10:00-20:00</li>
-		  <li><span>samedi</span> 10:00-20:00</li>
-		  <li><span>dimanche</span> 10:00-20:00</li>
-	  </uL>
+		<ul>
+		  <li><span>mardi</span> 10:00-19:30</li>
+		  <li><span>mercredi</span> 10:00-19:30</li>
+		  <li><span>jeudi</span> 10:00-19:30</li>
+		  <li><span>vendredi</span> 10:00-19:30</li>
+		  <li><span>samedi</span> 10:00-19:30</li>
+		  <li><span>dimanche</span> 10:00-19:30</li>
+	  </ul>
 	   </div>
     </div>
     <div class="clearfix"> </div>
@@ -315,16 +314,15 @@
 						</div>
 						<div class="col-md-3 footer-grid">
 						<h4>Horaires</h4>
-						  <p>lundi 10:00-20:00</p>
-						  <p>mardi 10:00-20:00</p>
-						  <p>mercredi 10:00-20:00</p>
-						  <p>jeudi 10:00-20:00</p>
-						  <p>vendredi 10:00-20:00</p>
-						  <p>samedi 10:00-20:00</p>
-						  <p>dimanche 10:00-20:00</p>
+						  <p>mardi 10:00-19:30</p>
+						  <p>mercredi 10:00-19:30</p>
+						  <p>jeudi 10:00-19:30</p>
+						  <p>vendredi 10:00-19:30</p>
+						  <p>samedi 10:00-19:30</p>
+						  <p>dimanche 10:00-19:30</p>
 						</div>
 						<div class="col-md-3 footer-grid">
-						<h4>Partager</h4>
+						<h4>Dites-le à vos amies</h4>
 						<div class="share-this">
 					      <div class="sharethis-inline-share-buttons"></div>
 					     </div>
@@ -342,8 +340,7 @@
 <!-- javascript -->
 <script src="templates/beauty/js/jquery.min.js"></script>
 <script src="js/metamorphosis.js"></script>
-<script src="templates/beauty/js/responsiveslides.min.js"></script>
-<script src="templates/beauty/js/template.js"></script>
+<script src="templates/beauty/js/template.js" async defer></script>
 <script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=590f03b42c145800128d5487&product=inline-share-buttons" async defer></script>
 </body>
 </html>

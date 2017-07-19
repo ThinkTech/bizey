@@ -425,11 +425,11 @@ margin-bottom: 10px;
 }
 .b-grids {
     border: 2px solid #c71585;
-    padding: 3.5em 2em;
+    padding: 2.5em 2.2em;
     text-align: center;
-    width: 274px;
+    width: 276px;
     height: 274px;
-    margin-right: 1%;
+    margin-right: 5px;
     background-color: #fff1f8;
     border-radius: 50%;
     -webkit-border-radius: 50%;
@@ -942,6 +942,7 @@ p.sub {
   color: #fff;
   font-family: cursive;
   letter-spacing: 2px;
+  white-space : nowrap;
 }
 /*--about--*/
 /*--team--*/
