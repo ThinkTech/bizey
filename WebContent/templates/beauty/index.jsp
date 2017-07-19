@@ -1,3 +1,4 @@
+
 <!DOCTYPE html>
 <html>
 <head>
@@ -11,10 +12,10 @@
 <link href="templates/beauty/css/template.css" rel="stylesheet" type="text/css" media="all"/>
  <link rel="shortcut icon" href="templates/beauty/images/banner.jpg"  sizes="32x32"/> 
 <meta property="og:type" content="website"/>
- <meta property="og:url" content="${baseUrl}"/>
+ <meta property="og:url" content="http://bizey.mircloud.host"/>
 <meta property="og:title" content="Institut Bizey - Site Officiel"/>
 <meta property="og:description" content="Bienvenue sur le site officiel de l'institut Bizey"/>
-<meta property="og:image" content="${baseUrl}/templates/beauty/images/banner.jpg"/>
+<meta property="og:image" content="http://bizey.mircloud.host/templates/beauty/images/banner.jpg"/>
 <meta name="viewport" content="width=device-width, initial-scale=1"/>
  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
 </head>
@@ -25,7 +26,7 @@
 	  <div class="container">
 			 <div class="header">
 			     <div class="logo">
-						<a href="${path}"><h1>Institut Bizey</h1><span>Révélateur de Beautés<span></a>
+						<a href="${path}"><h1>Institut Bizey</h1><span>L'amour pour la beauté et la beauté pour l'amour</span></a>
 				</div>
 						 
 				  <div class="top-nav">										 
@@ -81,7 +82,7 @@
 	<div id="welcome" class="about">
 	   <div class="container">
 		<h3 class="tittle">Bienvenue À L'institut Bizey</h3>
-		<p>L'institut Bizey est un institut de Beauté qui s'active fortement dans les domaines de la Coiffure, de l'Onglerie, des Soins du Corps et du Maquillage Professionnel ainsi que tous les services similaires. Nous vous accueillons dans un espace privilégié spacieux et moderne afin de satisfaire vos besoins. Notre équipe avec son savoir-faire, fait preuve de rigueur, d'écoute et d'une grande technicité. La précision des finitions et le temps alloué à chaque étape pour ne rien négliger, nous  permettent de vous offrir un service performant et de haut de gamme.</p>
+		<p>L'institut Bizey est un institut de Beauté qui s'active fortement dans les domaines de la Coiffure, de l'Onglerie, des Soins du Corps et du Maquillage Professionnel ainsi que tous les services similaires. Nous vous accueillons dans un espace privilégié, accueillant et moderne afin de satisfaire vos besoins. Notre équipe avec son savoir-faire, fait preuve de rigueur, d'écoute et d'une grande technicité. La précision des finitions et le temps alloué à chaque étape pour ne rien négliger, nous  permettent de vous offrir un service performant et de haut de gamme.</p>
 	   
 	   </div>
     </div>
