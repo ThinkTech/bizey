@@ -333,7 +333,7 @@ font-family: cursive;
 margin-bottom: 10px;
 }
 .logo a span {
-    color: #f25d9d;
+    color: #711bab;
     font-weight: bold;
     font-size: 1.1em;
     font-family: cursive;
@@ -344,7 +344,7 @@ margin-bottom: 10px;
 
 .logo a span:before {
 	content: "\201C";
-    color: #f25d9d;
+    color: #711bab;
     font-size: 22px;
     margin-right: 2px;
     margin-left: 2px;
@@ -352,7 +352,7 @@ margin-bottom: 10px;
 
 .logo a span:after {
 	content: "\201C";
-    color: #f25d9d;
+    color: #711bab;
     font-size: 22px;
 }
 
