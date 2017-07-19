@@ -436,7 +436,7 @@ margin-bottom: 10px;
 /*----*/
 /*--b-grids--*/
 .banner-bottom-section {
-  padding: 4em 0;
+  padding: 2em 0;
   background-color: #F6F6F6;
 }
 .b-grids {
@@ -519,7 +519,7 @@ i.s4 {
 }
 /*--about--*/
 .about,.pricing,.schedules {
-  padding:5em 0;
+  padding:2em 0;
 }
 
 .schedules {

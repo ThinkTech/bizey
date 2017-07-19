@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -335,7 +334,7 @@
 	<!--//end-footer-section-->
 			<!--/start-copyright-section-->
 				<div class="copyright">
-					<p>&copy;2017. Tous droits reservés | Conçu par <a href="http://w3layouts.com" target="_blank">W3layouts</a> et <a href="https://www.thinktech.sn" target="_blank">ThinkTech</a></p>
+					<p>&copy;2017 Conçu par <a href="http://w3layouts.com" target="_blank">W3layouts</a> et <a href="https://www.thinktech.sn" target="_blank">ThinkTech</a></p>
 				</div>
 			
 <!-- javascript -->
