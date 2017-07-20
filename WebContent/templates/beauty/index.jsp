@@ -3,7 +3,7 @@
 <head>
 <title>Institut Bizey</title>
 <meta charset='utf-8'>
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <!--template.css-->
 <link href="css/metamorphosis.css" rel="stylesheet" type="text/css" media="all"/>
@@ -15,8 +15,6 @@
 <meta property="og:title" content="Institut Bizey - Site Officiel"/>
 <meta property="og:description" content="Bienvenue sur le site officiel de l'institut Bizey"/>
 <meta property="og:image" content="http://bizey.mircloud.host/templates/beauty/images/banner.jpg"/>
-<meta name="viewport" content="width=device-width, initial-scale=1"/>
- <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /> 
 </head>
 <body>
  <!-- scroll to top  -->   

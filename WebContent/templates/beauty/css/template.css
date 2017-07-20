@@ -1276,8 +1276,13 @@ color: #f25d9d;
 	  margin-top: 1em;
 	  padding: 0;
 	}
-	.logo a h1 {
-	  font-size: 2.5em;
+	.logo a h1{
+	  font-size: 1em;
+	  margin-left : 100px;
+	}
+	.logo a span {
+	  font-size: 12px;
+	  margin-left : 100px;
 	}
 	i.s1, i.s2, i.s3, i.s4 {
 	  width: 70px;
@@ -1336,7 +1341,15 @@ color: #f25d9d;
 	}
 	.banner-info {
     margin-top: 0%;
-}
+    }
+    .logo a h1 {
+	  font-size: 1em;
+	  margin-left : 150px;
+	}
+	.logo a span {
+	  font-size: 10px;
+	  margin-left : 150px;
+	}
 }
 
 
@@ -1445,13 +1458,6 @@ color: #f25d9d;
 	  -moz-background-size: cover;
 	  -ms-background-size: cover;
 	  -webkit-background-size: cover;
-	}
-	.logo a h1 {
-	   font-size: 1.8em;
-	}
-	.logo a span {
-	  font-size: 0.9em;
-	  margin: 0 0em 0 1em;
 	}
 	.banner-info h3 {
 	  font-size: 2.1em;
