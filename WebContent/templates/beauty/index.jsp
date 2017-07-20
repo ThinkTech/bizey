@@ -158,6 +158,36 @@
 					 </figure>
 					 <div class="hf-text"><h5>French Twisted</h5></div>
 				 </div>
+				 <div class="col-md-4 h-f">
+					 <figure class="effect-jazz">
+							<img src="templates/beauty/images/s3.jpg" alt="img25"/>
+						<figcaption>
+							<p>When Jazz starts to chase cars, the whole world stands still.</p>
+							<a >View more</a>
+						</figcaption>			
+					 </figure>
+					 <div class="hf-text"><h5>French Twisted</h5></div>
+				 </div>
+				 <div class="col-md-4 h-f">
+					 <figure class="effect-jazz">
+							<img src="templates/beauty/images/s3.jpg" alt="img25"/>
+						<figcaption>
+							<p>When Jazz starts to chase cars, the whole world stands still.</p>
+							<a >View more</a>
+						</figcaption>			
+					 </figure>
+					 <div class="hf-text"><h5>French Twisted</h5></div>
+				 </div>
+				 <div class="col-md-4 h-f">
+					 <figure class="effect-jazz">
+							<img src="templates/beauty/images/s3.jpg" alt="img25"/>
+						<figcaption>
+							<p>When Jazz starts to chase cars, the whole world stands still.</p>
+							<a >View more</a>
+						</figcaption>			
+					 </figure>
+					 <div class="hf-text"><h5>French Twisted</h5></div>
+				 </div>
 				 <div class="clearfix"></div>
 				</div>
 		   </div>
