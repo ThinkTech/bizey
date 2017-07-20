@@ -13,7 +13,7 @@ $(function() {
 		auto : true,
 		pager : true,
 		nav : true,
-		speed : 500,
+		speed : 1000,
 		namespace : "callbacks"
 	});
 });
