@@ -5,11 +5,12 @@
 <meta charset='utf-8'>
 <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="keywords" content="Institut, Beauté, Coiffure, Soins du Corps, Maquillage"/>
 <!--template.css-->
 <link href="css/metamorphosis.css" rel="stylesheet" type="text/css" media="all"/>
 <!--template.css-->
 <link href="templates/beauty/css/template.css" rel="stylesheet" type="text/css" media="all"/>
- <link rel="shortcut icon" href="templates/beauty/images/banner.jpg"  sizes="32x32"/> 
+<link rel="shortcut icon" href="templates/beauty/images/banner.jpg"  sizes="32x32"/> 
 <meta property="og:type" content="website"/>
  <meta property="og:url" content="http://bizey.mircloud.host"/>
 <meta property="og:title" content="Institut Bizey - Site Officiel"/>
