@@ -132,8 +132,7 @@
 					<figure class="effect-jazz">
 					<img src="templates/beauty/images/photos/meches_raw_1.jpg" alt="img25"/>
 						<figcaption>
-							<p>When Jazz starts to chase cars, the whole world stands still.</p>
-							<a >View more</a>
+							<p>fait par Bizey.</p>
 						</figcaption>			
 					</figure>
 					 <div class="hf-text"><h5>Méches Raw</h5></div>
@@ -142,8 +141,7 @@
 					<figure class="effect-jazz">
 						<img src="templates/beauty/images/photos/raw_1.jpg" alt="img25"/>
 						<figcaption>
-							<p>When Jazz starts to chase cars, the whole world stands still.</p>
-							<a >View more</a>
+							<p>fait par Bizey.</p>
 						</figcaption>			
 					</figure>
 					 <div class="hf-text"><h5>Méches Raw</h5></div>
@@ -152,8 +150,7 @@
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/raw_2.jpg" alt="img25"/>
 						<figcaption>
-							<p>When Jazz starts to chase cars, the whole world stands still.</p>
-							<a >View more</a>
+							<p>fait par Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Méches Raw</h5></div>
@@ -162,8 +159,7 @@
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_africaines_1.jpg" alt="img25"/>
 						<figcaption>
-							<p>When Jazz starts to chase cars, the whole world stands still.</p>
-							<a >View more</a>
+							<p>fait par Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Africaines</h5></div>
@@ -172,8 +168,7 @@
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_africaines_4.jpg" alt="img25"/>
 						<figcaption>
-							<p>When Jazz starts to chase cars, the whole world stands still.</p>
-							<a >View more</a>
+							<p>fait par Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Africaines</h5></div>
@@ -182,8 +177,7 @@
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_africaines_7.jpg" alt="img25"/>
 						<figcaption>
-							<p>When Jazz starts to chase cars, the whole world stands still.</p>
-							<a >View more</a>
+							<p>fait par Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Africaines</h5></div>
@@ -192,8 +186,7 @@
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_americaines_1.jpg" alt="img25"/>
 						<figcaption>
-							<p>When Jazz starts to chase cars, the whole world stands still.</p>
-							<a >View more</a>
+							<p>fait par Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Americaines</h5></div>
@@ -202,8 +195,7 @@
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_americaines_2.jpg" alt="img25"/>
 						<figcaption>
-							<p>When Jazz starts to chase cars, the whole world stands still.</p>
-							<a >View more</a>
+							<p>fait par Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Americaines</h5></div>
@@ -212,8 +204,7 @@
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_americaines_3.jpg" alt="img25"/>
 						<figcaption>
-							<p>When Jazz starts to chase cars, the whole world stands still.</p>
-							<a >View more</a>
+							<p>fait par Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Americaines</h5></div>
@@ -223,8 +214,7 @@
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_enfants_1.jpg" alt="img25"/>
 						<figcaption>
-							<p>When Jazz starts to chase cars, the whole world stands still.</p>
-							<a >View more</a>
+							<p>fait par Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
@@ -234,8 +224,7 @@
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_enfants_5.jpg" alt="img25"/>
 						<figcaption>
-							<p>When Jazz starts to chase cars, the whole world stands still.</p>
-							<a >View more</a>
+							<p>fait par Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
@@ -246,8 +235,7 @@
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_enfants_6.jpg" alt="img25"/>
 						<figcaption>
-							<p>When Jazz starts to chase cars, the whole world stands still.</p>
-							<a >View more</a>
+							<p>fait par Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
