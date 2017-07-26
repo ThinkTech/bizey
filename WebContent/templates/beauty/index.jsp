@@ -166,7 +166,7 @@
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_africaines_montage_2.jpg" alt="img25" height="300px" width="350px"/>
+							<img src="templates/beauty/images/photos/tresses_africaines_4.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			
