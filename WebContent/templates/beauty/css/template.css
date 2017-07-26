@@ -1011,7 +1011,7 @@ color: #f25d9d;
 	  -webkit-background-size: cover;
 	}
 	.banner-info {
-     margin-top: 13%;
+     margin-top: 3%;
     }
 	.banner-info p {
 	  width: 70%;
@@ -1124,7 +1124,7 @@ color: #f25d9d;
     right: -25px;
 }
 .banner-info {
-    margin-top: 8%;
+    margin-top: 2%;
 }
 }
 
@@ -1229,6 +1229,7 @@ color: #f25d9d;
 	  font-size: 0.9em;
 	  margin: 0.5em 0 0;
 	  width: 80%;
+	  min-height : 80px;
 	}
 	.banner-bg {
 	  background: url(../images/banner.jpg)no-repeat;
@@ -1290,10 +1291,11 @@ color: #f25d9d;
 	.support input[type="email"] {
 	  width: 60%;
 	  }
-		.banner-info p {
+	.banner-info p {
 	  font-size: 0.8em;
 	  margin: 0.3em 0 0;
-	  }
+	  min-height : 90px;
+	 }
 	  .banner-info h3 {
 	  font-size: 2.7em;
 	}
