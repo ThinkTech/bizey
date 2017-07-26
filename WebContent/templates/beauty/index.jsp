@@ -130,7 +130,7 @@
 	           <div class="grid">
 			      <div class="col-md-4 h-f">
 					<figure class="effect-jazz">
-					<img src="templates/beauty/images/photos/meches_raw_1.jpg" alt="img25" height="300px"/>
+					<img src="templates/beauty/images/photos/meches_raw_1.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			
@@ -139,7 +139,7 @@
 				 </div>
 				 <div class="col-md-4 h-f">
 					<figure class="effect-jazz">
-						<img src="templates/beauty/images/photos/raw_1.jpg" alt="img25" height="300px"/>
+						<img src="templates/beauty/images/photos/raw_en_crochet_1.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			
@@ -148,7 +148,7 @@
 				 </div>
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/raw_2.jpg" alt="img25" height="300px"/>
+							<img src="templates/beauty/images/photos/raw_montage_1.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			
@@ -157,7 +157,7 @@
 				</div>
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_africaines_montage_1.jpg" alt="img25" height="300px"/>
+							<img src="templates/beauty/images/photos/tresses_africaines_montage_1.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			
@@ -166,7 +166,7 @@
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_africaines_5.jpg" alt="img25" height="300px"/>
+							<img src="templates/beauty/images/photos/tresses_africaines_montage_2.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			
@@ -175,7 +175,7 @@
 				 </div>
 				  <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_africaines_montage_3.jpg" alt="img25" height="300px"/>
+							<img src="templates/beauty/images/photos/tresses_africaines_montage_3.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			
@@ -184,7 +184,7 @@
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_americaines_1.jpg" alt="img25" height="300px"/>
+							<img src="templates/beauty/images/photos/tresses_americaines_1.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			
@@ -193,7 +193,7 @@
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_americaines_2.jpg" alt="img25" height="300px"/>
+							<img src="templates/beauty/images/photos/tresses_americaines_2.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			
@@ -202,7 +202,7 @@
 				 </div>
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_americaines_3.jpg" alt="img25" height="300px"/>
+							<img src="templates/beauty/images/photos/tresses_americaines_3.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			
@@ -212,7 +212,7 @@
 				
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_enfants_1.jpg" alt="img25" height="300px"/>
+							<img src="templates/beauty/images/photos/tresses_enfants_1.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			
@@ -222,7 +222,7 @@
 				
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_enfants_5.jpg" alt="img25" height="300px"/>
+							<img src="templates/beauty/images/photos/tresses_enfants_5.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			
@@ -233,7 +233,7 @@
 				
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_enfants_6.jpg" alt="img25" height="300px"/>
+							<img src="templates/beauty/images/photos/tresses_enfants_6.jpg" alt="img25" height="300px" width="350px"/>
 						<figcaption>
 							<p>made by Bizey.</p>
 						</figcaption>			

@@ -829,6 +829,10 @@ a.more:hover{
 	margin-left : 3%;
 }
 
+.pricing ol {
+	margin-top : 20px;
+}
+
 .schedules ul li span {
 	width: 163px;
     display: inline-block;
