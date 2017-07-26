@@ -130,112 +130,112 @@
 	           <div class="grid">
 			      <div class="col-md-4 h-f">
 					<figure class="effect-jazz">
-					<img src="templates/beauty/images/photos/meches_raw_1.jpg" alt="img25"/>
+					<img src="templates/beauty/images/photos/meches_raw_1.jpg" alt="img25" height="300px"/>
 						<figcaption>
-							<p>fait par Bizey.</p>
+							<p>made by Bizey.</p>
 						</figcaption>			
 					</figure>
 					 <div class="hf-text"><h5>Méches Raw</h5></div>
 				 </div>
 				 <div class="col-md-4 h-f">
 					<figure class="effect-jazz">
-						<img src="templates/beauty/images/photos/raw_1.jpg" alt="img25"/>
+						<img src="templates/beauty/images/photos/raw_1.jpg" alt="img25" height="300px"/>
 						<figcaption>
-							<p>fait par Bizey.</p>
+							<p>made by Bizey.</p>
 						</figcaption>			
 					</figure>
 					 <div class="hf-text"><h5>Méches Raw</h5></div>
 				 </div>
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/raw_2.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/raw_2.jpg" alt="img25" height="300px"/>
 						<figcaption>
-							<p>fait par Bizey.</p>
+							<p>made by Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Méches Raw</h5></div>
 				</div>
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_africaines_montage_1.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_africaines_montage_1.jpg" alt="img25" height="300px"/>
 						<figcaption>
-							<p>fait par Bizey.</p>
+							<p>made by Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Africaines</h5></div>
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_africaines_5.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_africaines_5.jpg" alt="img25" height="300px"/>
 						<figcaption>
-							<p>fait par Bizey.</p>
+							<p>made by Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Africaines</h5></div>
 				 </div>
 				  <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_africaines_montage_3.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_africaines_montage_3.jpg" alt="img25" height="300px"/>
 						<figcaption>
-							<p>fait par Bizey.</p>
+							<p>made by Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Africaines</h5></div>
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_americaines_1.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_americaines_1.jpg" alt="img25" height="300px"/>
 						<figcaption>
-							<p>fait par Bizey.</p>
+							<p>made by Bizey.</p>
 						</figcaption>			
 					 </figure>
-					 <div class="hf-text"><h5>Trésses Americaines</h5></div>
+					 <div class="hf-text"><h5>Trésses Américaines</h5></div>
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_americaines_2.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_americaines_2.jpg" alt="img25" height="300px"/>
 						<figcaption>
-							<p>fait par Bizey.</p>
+							<p>made by Bizey.</p>
 						</figcaption>			
 					 </figure>
-					 <div class="hf-text"><h5>Trésses Americaines</h5></div>
+					 <div class="hf-text"><h5>Trésses Américaines</h5></div>
 				 </div>
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_americaines_3.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_americaines_3.jpg" alt="img25" height="300px"/>
 						<figcaption>
-							<p>fait par Bizey.</p>
+							<p>made by Bizey.</p>
 						</figcaption>			
 					 </figure>
-					 <div class="hf-text"><h5>Trésses Americaines</h5></div>
-				 </div>
-				
-				<div class="col-md-4 h-f">
-					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_enfants_1.jpg" alt="img25"/>
-						<figcaption>
-							<p>fait par Bizey.</p>
-						</figcaption>			
-					 </figure>
-					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
+					 <div class="hf-text"><h5>Trésses Américaines</h5></div>
 				 </div>
 				
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_enfants_5.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_enfants_1.jpg" alt="img25" height="300px"/>
 						<figcaption>
-							<p>fait par Bizey.</p>
+							<p>made by Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
 				 </div>
 				
+				<div class="col-md-4 h-f">
+					 <figure class="effect-jazz">
+							<img src="templates/beauty/images/photos/tresses_enfants_5.jpg" alt="img25" height="300px"/>
+						<figcaption>
+							<p>made by Bizey.</p>
+						</figcaption>			
+					 </figure>
+					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
+				 </div>
+				
 				
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_enfants_6.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_enfants_6.jpg" alt="img25" height="300px"/>
 						<figcaption>
-							<p>fait par Bizey.</p>
+							<p>made by Bizey.</p>
 						</figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
@@ -251,7 +251,6 @@
 	   <div class="container">
 		<h3 class="tittle">Nos Tarifs</h3>
 		<p>Nos prix sont nettement moins élevés que dans d'autres instituts et plusieurs méthodes de paiement sont disponibles.</p>
-	    <h4>Mode de paiment</h4>
 	    <ol>
 	     <li>Par espèce</li>
 	     <li>Par mandat ou chèque</li>
