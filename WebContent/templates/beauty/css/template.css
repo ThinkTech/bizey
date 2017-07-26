@@ -308,7 +308,7 @@ padding:0;
 /*----*/
 .logo {
   margin-top: 80px;
-  right: 15%;
+  right: 11%;
   position: relative;
   float : right;
   z-index: 999;
@@ -320,7 +320,8 @@ padding:0;
   font-size:4em;
   font-weight: 400;
   color: #c71585;
-margin-bottom: 10px;
+  margin-bottom: 10px;
+  font-family : Lemonada;
 }
 .logo a span {
     color: #711bab;
@@ -381,9 +382,10 @@ margin-bottom: 10px;
   display: inline-block;
 }
 .banner-info h3 {
- font-size: 4em;
-  font-weight: 400;
-  color: #2b2927;
+  font-size: 3.5em;
+  font-weight: bold;
+  color: #711bab;
+  font-family : Lemonada;
 }
 .banner-info p {
  font-size: 1.1em;
@@ -428,7 +430,7 @@ margin-bottom: 10px;
   background-color: #F6F6F6;
 }
 .b-grids {
-    border: 2px solid #711cab;
+    border: 2px solid #c71585;
     padding: 2.5em 2.2em;
     text-align: center;
     width: 276px;
@@ -515,10 +517,11 @@ i.s4 {
 
 h3.tittle {
   font-size: 2.75em;
-  font-weight: 400;
-  color: #c71585;
-text-transform: uppercase;
-    margin-bottom: 8px;
+  font-weight: bold;
+  color: #711bab;
+  text-transform: uppercase;
+  margin-bottom: 8px;
+  font-family : Lemonada;
 }
 .about p, .pricing p, .contact p {
    color: #333;
@@ -770,7 +773,7 @@ a.more:hover{
     margin-right: 5px;
     margin-bottom: 10px;
     font-weight : bold;
-     font-family : Tahoma;
+     font-family : Lemonada;
 }
 
 .contact input[type=text],.contact input[type=email] {
@@ -799,16 +802,16 @@ a.more:hover{
 }
 
 .contact input[type=submit] {
-    font-family: Tahoma;
+    font-family: Lemonada;
     background: #f25d9d;
     cursor: pointer;
     display: block;
     margin-left: 53%;
-    padding-top: 1px;
+    padding-top: 6px;
     height: 42px;
     width: 85px;
     color: #fff;
-    font-size: 100%;
+    font-size: 95%;
     margin-bottom: 20px;
     margin-top: 30px;
     font-weight: bold;
@@ -936,12 +939,13 @@ p.sub {
   margin: 0 0.1em .2em;
 }
 .footer-grids h4 {
-    font-size: 1.6em;
+  font-size: 1.6em;
   text-transform: uppercase;
   font-weight: 400;
   color: #fff;
   letter-spacing: 2px;
   white-space : nowrap;
+  font-family : Lemonada;
 }
 /*--about--*/
 /*--team--*/

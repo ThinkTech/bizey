@@ -10,6 +10,7 @@
 <link href="css/metamorphosis.css" rel="stylesheet" type="text/css" media="all"/>
 <!--template.css-->
 <link href="templates/beauty/css/template.css" rel="stylesheet" type="text/css" media="all"/>
+<link href="//fonts.googleapis.com/css?family=Lemonada:300,400,700" rel="stylesheet">
 <link rel="shortcut icon" href="templates/beauty/images/banner.jpg"  sizes="32x32"/> 
 <meta property="og:type" content="website"/>
  <meta property="og:url" content="http://bizey.mircloud.host"/>
@@ -48,7 +49,7 @@
 								<div class="banner-info">
 									<h3>Coiffure</h3>
 									<label></label>
-									<p>Plusieurs variantes de coiffure sont possibles (chignons, boucles anglaises, tresses américaines, tissage...) pour épouser la forme de votre visage.</p>
+									<p>Plusieurs variantes de coiffure sont possibles (chignons, boucles anglaises, tresses, tissage...) pour épouser la forme de votre visage.</p>
 								</div>
 							</li>
 							<li>
@@ -93,7 +94,7 @@
 					<i class="s1"> </i>
 					 <div class="album-box">
 				   <h4>Coiffure</h4>
-				     <p>Plusieurs variantes de coiffure sont possibles (chignons, boucles anglaises, tresses américaines, tissage...) pour épouser la forme de votre visage.</p>
+				     <p>Plusieurs variantes de coiffure sont possibles (chignons, boucles anglaises, tresses, tissage...) pour épouser la forme de votre visage.</p>
 				 </div>
 			</div>
 			<div class="col-md-3 b-grids">
@@ -129,67 +130,133 @@
 	           <div class="grid">
 			      <div class="col-md-4 h-f">
 					<figure class="effect-jazz">
-					<img src="templates/beauty/images/s1.jpg" alt="img25"/>
+					<img src="templates/beauty/images/photos/meches_raw_1.jpg" alt="img25"/>
 						<figcaption>
 							<p>When Jazz starts to chase cars, the whole world stands still.</p>
 							<a >View more</a>
 						</figcaption>			
 					</figure>
-					 <div class="hf-text"><h5>Long Silky</h5></div>
+					 <div class="hf-text"><h5>Méches Raw</h5></div>
 				 </div>
 				 <div class="col-md-4 h-f">
 					<figure class="effect-jazz">
-						<img src="templates/beauty/images/s2.jpg" alt="img25"/>
+						<img src="templates/beauty/images/photos/raw_1.jpg" alt="img25"/>
 						<figcaption>
 							<p>When Jazz starts to chase cars, the whole world stands still.</p>
 							<a >View more</a>
 						</figcaption>			
 					</figure>
-					 <div class="hf-text"><h5>Fishtail</h5></div>
+					 <div class="hf-text"><h5>Méches Raw</h5></div>
 				 </div>
-					<div class="col-md-4 h-f">
+				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/s3.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/raw_2.jpg" alt="img25"/>
 						<figcaption>
 							<p>When Jazz starts to chase cars, the whole world stands still.</p>
 							<a >View more</a>
 						</figcaption>			
 					 </figure>
-					 <div class="hf-text"><h5>French Twisted</h5></div>
+					 <div class="hf-text"><h5>Méches Raw</h5></div>
+				</div>
+				<div class="col-md-4 h-f">
+					 <figure class="effect-jazz">
+							<img src="templates/beauty/images/photos/tresses_africaines_1.jpg" alt="img25"/>
+						<figcaption>
+							<p>When Jazz starts to chase cars, the whole world stands still.</p>
+							<a >View more</a>
+						</figcaption>			
+					 </figure>
+					 <div class="hf-text"><h5>Trésses Africaines</h5></div>
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/s3.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_africaines_4.jpg" alt="img25"/>
 						<figcaption>
 							<p>When Jazz starts to chase cars, the whole world stands still.</p>
 							<a >View more</a>
 						</figcaption>			
 					 </figure>
-					 <div class="hf-text"><h5>French Twisted</h5></div>
+					 <div class="hf-text"><h5>Trésses Africaines</h5></div>
+				 </div>
+				  <div class="col-md-4 h-f">
+					 <figure class="effect-jazz">
+							<img src="templates/beauty/images/photos/tresses_africaines_7.jpg" alt="img25"/>
+						<figcaption>
+							<p>When Jazz starts to chase cars, the whole world stands still.</p>
+							<a >View more</a>
+						</figcaption>			
+					 </figure>
+					 <div class="hf-text"><h5>Trésses Africaines</h5></div>
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/s3.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_americaines_1.jpg" alt="img25"/>
 						<figcaption>
 							<p>When Jazz starts to chase cars, the whole world stands still.</p>
 							<a >View more</a>
 						</figcaption>			
 					 </figure>
-					 <div class="hf-text"><h5>French Twisted</h5></div>
+					 <div class="hf-text"><h5>Trésses Americaines</h5></div>
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/s3.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_americaines_2.jpg" alt="img25"/>
 						<figcaption>
 							<p>When Jazz starts to chase cars, the whole world stands still.</p>
 							<a >View more</a>
 						</figcaption>			
 					 </figure>
-					 <div class="hf-text"><h5>French Twisted</h5></div>
+					 <div class="hf-text"><h5>Trésses Americaines</h5></div>
 				 </div>
+				<div class="col-md-4 h-f">
+					 <figure class="effect-jazz">
+							<img src="templates/beauty/images/photos/tresses_americaines_3.jpg" alt="img25"/>
+						<figcaption>
+							<p>When Jazz starts to chase cars, the whole world stands still.</p>
+							<a >View more</a>
+						</figcaption>			
+					 </figure>
+					 <div class="hf-text"><h5>Trésses Americaines</h5></div>
+				 </div>
+				
+				<div class="col-md-4 h-f">
+					 <figure class="effect-jazz">
+							<img src="templates/beauty/images/photos/tresses_enfants_1.jpg" alt="img25"/>
+						<figcaption>
+							<p>When Jazz starts to chase cars, the whole world stands still.</p>
+							<a >View more</a>
+						</figcaption>			
+					 </figure>
+					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
+				 </div>
+				
+				<div class="col-md-4 h-f">
+					 <figure class="effect-jazz">
+							<img src="templates/beauty/images/photos/tresses_enfants_5.jpg" alt="img25"/>
+						<figcaption>
+							<p>When Jazz starts to chase cars, the whole world stands still.</p>
+							<a >View more</a>
+						</figcaption>			
+					 </figure>
+					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
+				 </div>
+				
+				
+				<div class="col-md-4 h-f">
+					 <figure class="effect-jazz">
+							<img src="templates/beauty/images/photos/tresses_enfants_6.jpg" alt="img25"/>
+						<figcaption>
+							<p>When Jazz starts to chase cars, the whole world stands still.</p>
+							<a >View more</a>
+						</figcaption>			
+					 </figure>
+					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
+				 </div>
+				
+				
 				 <div class="clearfix"></div>
 				</div>
-		   </div>
+				</div>
 		</div>
 		<!--start-pricing-->
 	<div id="pricing" class="pricing">
@@ -222,72 +289,6 @@
 	   </div>
     </div>
     <div class="clearfix"> </div>
-		<!--news-->
-		<div  class="news-section">
-			<div class="container">
-				<h3 class="tittle">Nouvelles</h3>
-				<div class="news-left">			
-					<div class="col-md-6 col-news-right">
-						<div class="col-bottom">
-							<h4>Lorem Ipsum </h4>
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem  </p>
-							<a  class="more"> MORE</a>
-						</div>
-						<div class="col-bottom">
-							<h4>Lorem IPsump </h4>
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem  </p>
-							<a  class="more"> MORE</a>
-						</div>
-						<div class="col-bottom">
-							<h4>Lorem IPsump </h4>
-							<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem  </p>
-							<a  class="more"> MORE</a>
-						</div>
-						<div class="clearfix"> </div>
-					</div>
-					<div class="col-md-6 col-news">
-						<div class="col-news-top">
-							<a  class="date-in">
-								<img class="img-responsive mix-in" src="templates/beauty/images/c1.jpg" alt="">
-								<div class="month-in">
-								  <label>
-									<span class="day">30</span>
-									<span class="month">Mars</span>
-								  </label>
-								</div>
-							</a>
-							<div class="clearfix"> </div>
-						</div>					
-						<div class="col-news-top">
-							<a  class="date-in">
-								<img class="img-responsive mix-in" src="templates/beauty/images/c2.jpg" alt="">
-								<div class="month-in">
-								  <label>
-									<span class="day">30</span>
-									<span class="month">Août</span>
-								  </label>
-								</div>
-							</a>
-							<div class="clearfix"> </div>
-						</div>
-						<div class="col-news-top">
-							<a  class="date-in">
-								<img class="img-responsive mix-in" src="templates/beauty/images/c3.jpg" alt="">
-								<div class="month-in">
-								  <label>
-									<span class="day">24</span>
-									<span class="month">Dècembre</span>
-								  </label>
-								</div>
-							</a>
-							<div class="clearfix"> </div>
-						</div>					
-					</div>
-					<div class="clearfix"> </div>
-				</div>
-			</div>
-		</div>
-	<!--//news-->
 	<!--newsletter-->
 		<div class="newsletter">
 			<div class="container">
