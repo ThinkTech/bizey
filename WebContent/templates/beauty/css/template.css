@@ -611,6 +611,7 @@ figure.effect-jazz {
 
 figure.effect-jazz img {
 	opacity: 0.9;
+	height : 300px;
 }
 figure.effect-jazz figcaption::after,
 figure.effect-jazz img,

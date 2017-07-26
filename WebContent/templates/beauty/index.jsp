@@ -157,7 +157,7 @@
 				</div>
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_africaines_1.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_africaines_montage_1.jpg" alt="img25"/>
 						<figcaption>
 							<p>fait par Bizey.</p>
 						</figcaption>			
@@ -166,7 +166,7 @@
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_africaines_4.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_africaines_5.jpg" alt="img25"/>
 						<figcaption>
 							<p>fait par Bizey.</p>
 						</figcaption>			
@@ -175,7 +175,7 @@
 				 </div>
 				  <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
-							<img src="templates/beauty/images/photos/tresses_africaines_7.jpg" alt="img25"/>
+							<img src="templates/beauty/images/photos/tresses_africaines_montage_3.jpg" alt="img25"/>
 						<figcaption>
 							<p>fait par Bizey.</p>
 						</figcaption>			
@@ -283,10 +283,8 @@
 			 <h3 class="tittle two">Social</h3>
 				<div class="newslatter">
 					<ul class="f-icons">
-					<li><a  class="facebook"> </a></li>
-				    <li><a  class="twitter"> </a></li>
-					<li><a  class="ins"> </a></li>
-					</ul>
+					<li><a  class="facebook"></a></li>
+				    </ul>
 							<div class="clearfix"></div>
 							<div class="support">
 							  <form action="newsletter">
