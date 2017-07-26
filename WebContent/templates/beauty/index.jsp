@@ -282,7 +282,7 @@
 			 <h3 class="tittle two">Social</h3>
 				<div class="newslatter">
 					<ul class="f-icons">
-					<li><a  class="facebook"></a></li>
+					<li><a class="facebook" href="https://www.facebook.com/Institut-Bizey-498149043853773/" target="_blank"></a></li>
 				    </ul>
 							<div class="clearfix"></div>
 							<div class="support">
