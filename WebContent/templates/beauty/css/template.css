@@ -533,19 +533,18 @@ h3.tittle {
 }
 /*--hair-sectyion--*/
 .hair-section {
-  padding: 4em 0;
+  padding: 0em 0;
   background-color: #F6F6F6;
 }
 .grid {
 	position: relative;
 	clear: both;
 	margin: 0 auto;
-	  padding: 4em 0;
+	padding: 0em 0;
 }
 .hf-text {
   text-align: center;
   background-color: #fff;
-  border : 1px solid #f25d9d;
 }
 .hf-text h5 {
   font-size:2em;
@@ -606,7 +605,6 @@ h3.tittle {
 figure.effect-jazz {
 	background: -webkit-linear-gradient(-65deg, #01b4a5 0%,#711BAB 100%);
 	background: linear-gradient(-65deg, #01b4a5 0%,#711BAB 100%);
-	border : 1px solid #f25d9d;
 }
 
 .h-f {
@@ -1115,9 +1113,6 @@ color: #f25d9d;
 	.about p, .pricing p, .contact p {
 	  font-size: 0.95em;
 	  }
-	  .grid {
-	  padding: 4em 0 3em 0;
-	}
 	.col-bottom h4 {
   font-size: 1.3em;
   }
@@ -1188,9 +1183,6 @@ color: #f25d9d;
   text-transform: none;
   font-size: 0.85em;
   }
-	.grid {
-	  padding: 3em 0 2em 0;
-	}
 	.col-news {
 	  padding: 0;
 	  margin: 2em 0;
@@ -1388,9 +1380,6 @@ color: #f25d9d;
   width: 100%;
    margin: 0 auto 8%;
     padding: 0;
-	}
-	.grid {
-	  padding: 2em 0 0em 0;
 	}
 	.news-section {
 	  padding: 1.5em 0;
