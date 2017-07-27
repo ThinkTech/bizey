@@ -13,10 +13,10 @@
 <link href="//fonts.googleapis.com/css?family=Lemonada:300,400,700" rel="stylesheet">
 <link rel="shortcut icon" href="templates/beauty/images/banner.jpg"  sizes="32x32"/> 
 <meta property="og:type" content="website"/>
- <meta property="og:url" content="http://bizey.mircloud.host"/>
+ <meta property="og:url" content="${baseUrl}"/>
 <meta property="og:title" content="Institut Bizey - Site Officiel"/>
 <meta property="og:description" content="Bienvenue sur le site officiel de l'institut Bizey"/>
-<meta property="og:image" content="http://bizey.mircloud.host/templates/beauty/images/banner.jpg"/>
+<meta property="og:image" content="${baseUrl}/templates/beauty/images/banner.jpg"/>
 </head>
 <body>
  <!-- scroll to top  -->   
