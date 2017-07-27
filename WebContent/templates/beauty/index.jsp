@@ -131,117 +131,87 @@
 			      <div class="col-md-4 h-f">
 					<figure class="effect-jazz">
 					<img src="templates/beauty/images/photos/meches_raw_1.jpg" alt="img25" height="300px" width="350px"/>
-						<figcaption>
-							<p>made by Bizey.</p>
-						</figcaption>			
+						<figcaption></figcaption>			
 					</figure>
 					 <div class="hf-text"><h5>Méches Raw</h5></div>
 				 </div>
 				 <div class="col-md-4 h-f">
 					<figure class="effect-jazz">
 						<img src="templates/beauty/images/photos/raw_en_crochet_1.jpg" alt="img25" height="300px" width="350px"/>
-						<figcaption>
-							<p>made by Bizey.</p>
-						</figcaption>			
+						<figcaption></figcaption>			
 					</figure>
 					 <div class="hf-text"><h5>Méches Raw</h5></div>
 				 </div>
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/raw_montage_1.jpg" alt="img25" height="300px" width="350px"/>
-						<figcaption>
-							<p>made by Bizey.</p>
-						</figcaption>			
+						<figcaption></figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Méches Raw</h5></div>
 				</div>
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_africaines_montage_1.jpg" alt="img25" height="300px" width="350px"/>
-						<figcaption>
-							<p>made by Bizey.</p>
-						</figcaption>			
+						<figcaption></figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Africaines</h5></div>
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_africaines_4.jpg" alt="img25" height="300px" width="350px"/>
-						<figcaption>
-							<p>made by Bizey.</p>
-						</figcaption>			
+						<figcaption></figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Africaines</h5></div>
 				 </div>
 				  <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_africaines_montage_3.jpg" alt="img25" height="300px" width="350px"/>
-						<figcaption>
-							<p>made by Bizey.</p>
-						</figcaption>			
+						<figcaption></figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Africaines</h5></div>
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_americaines_1.jpg" alt="img25" height="300px" width="350px"/>
-						<figcaption>
-							<p>made by Bizey.</p>
-						</figcaption>			
+						<figcaption></figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Américaines</h5></div>
 				 </div>
 				 <div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_americaines_2.jpg" alt="img25" height="300px" width="350px"/>
-						<figcaption>
-							<p>made by Bizey.</p>
-						</figcaption>			
+						<figcaption></figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Américaines</h5></div>
 				 </div>
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_americaines_3.jpg" alt="img25" height="300px" width="350px"/>
-						<figcaption>
-							<p>made by Bizey.</p>
-						</figcaption>			
+						<figcaption></figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Américaines</h5></div>
 				 </div>
-				
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_enfants_1.jpg" alt="img25" height="300px" width="350px"/>
-						<figcaption>
-							<p>made by Bizey.</p>
-						</figcaption>			
+						<figcaption></figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
 				 </div>
-				
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_enfants_5.jpg" alt="img25" height="300px" width="350px"/>
-						<figcaption>
-							<p>made by Bizey.</p>
-						</figcaption>			
+						<figcaption></figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
 				 </div>
-				
-				
 				<div class="col-md-4 h-f">
 					 <figure class="effect-jazz">
 							<img src="templates/beauty/images/photos/tresses_enfants_6.jpg" alt="img25" height="300px" width="350px"/>
-						<figcaption>
-							<p>made by Bizey.</p>
-						</figcaption>			
+						<figcaption></figcaption>			
 					 </figure>
 					 <div class="hf-text"><h5>Trésses Enfants</h5></div>
 				 </div>
-				
-				
 				 <div class="clearfix"></div>
 				</div>
 				</div>
