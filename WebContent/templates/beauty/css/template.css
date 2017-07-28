@@ -544,13 +544,15 @@ h3.tittle {
 }
 .hf-text {
   text-align: center;
-  background-color: #fff;
+  background-color: #f25d9d;
 }
 .hf-text h5 {
-  font-size:1.3em;
+  font-size: 1.3em;
   font-weight: 400;
-  color: #711BAB;
-  line-height:1.5em;
+  color: #fefdff;
+  line-height: 1.4em;
+  position: relative;
+  top: 5px;
 }
 /* Common style */
 .grid figure {
@@ -605,6 +607,8 @@ h3.tittle {
 figure.effect-jazz {
 	background: -webkit-linear-gradient(-65deg, #01b4a5 0%,#711BAB 100%);
 	background: linear-gradient(-65deg, #01b4a5 0%,#711BAB 100%);
+	position: relative;
+    z-index: 3;
 }
 
 .h-f {
