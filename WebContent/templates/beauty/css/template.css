@@ -785,7 +785,8 @@ a.more:hover{
     margin-right: 5px;
     margin-bottom: 10px;
     font-weight : bold;
-     font-family : Lemonada;
+    font-family : Lemonada;
+    color : #711bab; 
 }
 
 .contact a, .contact a:visited {
@@ -799,7 +800,7 @@ a.more:hover{
     margin-bottom: 15px;
     background: #fff;
     padding-left: 3px;
-    border: 1px solid #000;
+    border: 1px solid #711bab;
     font-family : Tahoma;
 }
 
@@ -811,7 +812,7 @@ a.more:hover{
     display: block;
     background : #fff1f8;
     padding-left: 3px;
-    border: 1px solid #000;
+    border: 1px solid #711bab;
     font-family : Tahoma;
     padding : 5px;
     padding-left : 2px;
@@ -831,13 +832,12 @@ a.more:hover{
     margin-bottom: 20px;
     margin-top: 30px;
     font-weight: bold;
-    border: 1px solid #000;
+    border: 1px solid #711bab;
 }
 
 .contact input[type=submit]:hover {
 	background: #fff;
 	color: #f25d9d;
-	border : 1px solid #000;
 }
 
 .pricing ol,.schedules ul {
