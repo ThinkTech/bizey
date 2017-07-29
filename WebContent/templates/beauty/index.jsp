@@ -49,7 +49,7 @@
 								<div class="banner-info">
 									<h3>Coiffure</h3>
 									<label></label>
-									<p>Plusieurs variantes de coiffure sont possibles (chignons, boucles anglaises, tresses, tissage...) pour épouser la forme de votre visage.</p>
+									<p>Plusieurs variantes de coiffure sont possibles (chignons, boucles anglaises, trésses, tissage...) pour épouser la forme de votre visage.</p>
 								</div>
 							</li>
 							<li>
@@ -94,7 +94,7 @@
 					<i class="s1"> </i>
 					 <div class="album-box">
 				   <h4>Coiffure</h4>
-				     <p>Plusieurs variantes de coiffure sont possibles (chignons, boucles anglaises, tresses, tissage...) pour épouser la forme de votre visage.</p>
+				     <p>Plusieurs variantes de coiffure sont possibles (chignons, boucles anglaises, trésses, tissage...) pour épouser la forme de votre visage.</p>
 				 </div>
 			</div>
 			<div class="col-md-3 b-grids">
@@ -233,7 +233,7 @@
 	<div id="schedules" class="schedules">
 	   <div class="container">
 		<h3 class="tittle">Nos Horaires</h3>
-		<p>Nos horaires d'ouverture sont les suivantes : </p>
+		<p>Nous sommes ouverts du mardi au dimanche et nos horaires d'ouverture sont les suivantes : </p>
 		<br>
 		<ul>
 		  <li><span>mardi</span> 10:00-19:30</li>

@@ -762,7 +762,7 @@ a.more:hover{
 	color : #fff;
 }
 .contact{
-  background-color : #fff;
+  background-color : #f25d9d;
   min-height: 400px;
   background-size: cover;
   -o-background-size: cover;
@@ -770,6 +770,10 @@ a.more:hover{
   -ms-background-size: cover;
   -webkit-background-size: cover;
      padding-top: 2.5em;
+}
+
+.contact p {
+	color : #fff;
 }
 
 .contact form {
@@ -784,14 +788,18 @@ a.more:hover{
      font-family : Lemonada;
 }
 
+.contact a, .contact a:visited {
+	color : #fff;
+}
+
 .contact input[type=text],.contact input[type=email] {
 	width: 65%;
     display: inline-block;
     height: 43px;
     margin-bottom: 15px;
-    background: #fff1f8;
+    background: #fff;
     padding-left: 3px;
-    border: 1px solid #f25d9d;
+    border: 1px solid #000;
     font-family : Tahoma;
 }
 
@@ -803,7 +811,7 @@ a.more:hover{
     display: block;
     background : #fff1f8;
     padding-left: 3px;
-    border: 1px solid #f25d9d;
+    border: 1px solid #000;
     font-family : Tahoma;
     padding : 5px;
     padding-left : 2px;
@@ -823,12 +831,13 @@ a.more:hover{
     margin-bottom: 20px;
     margin-top: 30px;
     font-weight: bold;
-    border: 1px solid #f25d9d;
+    border: 1px solid #000;
 }
 
 .contact input[type=submit]:hover {
 	background: #fff;
 	color: #f25d9d;
+	border : 1px solid #000;
 }
 
 .pricing ol,.schedules ul {
@@ -893,7 +902,7 @@ ul.f-icons li a.facebook:hover,ul.f-icons li a.twitter:hover,ul.f-icons li a.gg:
   font-size: 15px;
   text-align: left;
   font-weight: 400;
-  border: 1px solid #fff;
+  border: 1px solid #000;
   outline: none;
   margin: 0px 0px 0 0;
   webkit-appearance:none;
@@ -901,7 +910,7 @@ ul.f-icons li a.facebook:hover,ul.f-icons li a.twitter:hover,ul.f-icons li a.gg:
 .support input[type="submit"]{
    background:#450670;
   cursor: pointer;
-   border: 0;
+   border: 1px solid #000;
   color: #fff;
   font-weight: bold;
   font-size: 13px;
