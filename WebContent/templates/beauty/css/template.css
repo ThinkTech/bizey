@@ -35,7 +35,7 @@ a:active,
 a:hover {
   outline: 0;
 }
-.nav li a:visited, .nav li a.active, .nav li a:hover {
+.nav li a.active, .nav li a:hover {
   color:#2b2927;
 }
 h1 {
