@@ -321,7 +321,7 @@
 				<div class="copyright">
 					<p>&copy;2017 Conçu par <a href="http://w3layouts.com" target="_blank">W3layouts</a> et <a href="https://www.thinktech.sn" target="_blank">ThinkTech</a></p>
 				</div>
-			
+<i id="offline-message" data-info="pas de connexion internet"></i>			
 <!-- javascript -->
 <script src="templates/beauty/js/jquery.min.js"></script>
 <script src="js/metamorphosis.js"></script>
