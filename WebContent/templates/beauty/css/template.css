@@ -667,85 +667,6 @@ figure.effect-jazz:hover p {
 	-webkit-transform: scale3d(1,1,1);
 	transform: scale3d(1,1,1);
 }
-/*--news--*/
-.news-section {
-  padding: 4em 0;
-  background-color: #fff;
-  display : none;
-}
-.col-bottom h4{
-    color: #711BAB;
-  text-transform: uppercase;
-  font-size: 1.4em;
-  font-weight:600;
-}
-.col-bottom p{
-    color: #333;
-  font-size: 1em;
-  line-height: 1.8em;
-  margin: 0.5em 0 0 0;
-}
-a.more{
-	text-decoration:none;
-	font-size: 1.3em;
-	color:#c71585;
-	font-weight: 600;	
-	  display: inline-block;
-  margin-top: 0.7em;
-}
-.col-news-right {
-  padding: 0;
-  margin-top: 1em;
-}
-a.more:hover{
-	color:#000;
-}
-.col-bottom {
-	  padding: 0 0 1.1em 0;
-}
-.col-news-top .date-in {
-	overflow: hidden;
-	position: relative;
-	display: block;
-}
-.col-news-top .date-in .month-in {
-	position: absolute;
-	height: 50%;
-	width: 50%;
-	top: 0;
-	left: 0;
-	background: url(../images/background2.png) repeat;
-	text-align: center;
-	-webkit-transition: all 0.3s ease;
-	transition: all 0.3s ease;
-}
-.col-news-top .date-in:hover .month-in {
-	width: 100%;
-}
-.col-news-top .date-in .month-in label {
-	display: inline-block;
-	font-weight: 800;
-	text-transform: uppercase;
-	color: #ffffff;
-	top: 50%;
-	margin-top: -61px;
-	position: absolute;
-	left: 0;
-	right: 0;
-}
-.col-news-top .date-in .month-in label .day {
-	  font-size: 3em;
-  line-height: 102px;
-  margin-bottom: -24px;
-  font-weight: 400;
-}
-.col-news-top .date-in .month-in label .month {
-	font-size: 14px;
-	line-height: 14px;
-}
-.col-news-top .date-in .month-in label span {
-	display: block;
-}
 /*--contact---*/
 .newsletter{
   background-color : #711BAB;
@@ -1029,9 +950,6 @@ color: #f25d9d;
 	.banner-info {
      margin-top: 15%;
     }
-	.banner-info p {
-	  width: 70%;
-	}
 	.top-nav {
     right: -20px;
 }
@@ -1102,11 +1020,6 @@ color: #f25d9d;
 	  -webkit-background-size: cover;
 	  padding-top: 0.5em;
 	}
-	.flickr-grid {
-	  float: left;
-	  width: 30%;
-	  margin: 0 0.1em .2em;
-	}
 	.support {
 	  margin: 1.5em 0em 0 0;
 	  background-color: #9F60C9;
@@ -1142,11 +1055,15 @@ color: #f25d9d;
 	}
 	
 	.top-nav {
-    right: -25px;
-}
-.banner-info {
-    margin-top: 2%;
-}
+     right: -25px;
+     }
+    .banner-info {
+     margin-top: 2%;
+    }
+    .banner-info p {
+	  width: 70%;
+	}
+	
 }
 
 @media (max-width:768px){
@@ -1217,20 +1134,9 @@ color: #f25d9d;
 	.footer-grid {
 	  margin-top:1em;
 	}
-	.footer-grid.flickr {
-	 margin-top:0.3em;
-	}
-	.flickr-grid {
-	  float: left;
-	  width: 20%;
-	  margin: 0 0.1em .2em;
-	}
 	h3.tittle {
 	  font-size: 2.5em;
 	}
-	.news-section {
-    padding: 3em 0;
-  }
   .nav li a:hover {
 	  color: #000!important;
 	}
@@ -1413,32 +1319,12 @@ color: #f25d9d;
    margin: 0 auto 8%;
     padding: 0;
 	}
-	.news-section {
-	  padding: 1.5em 0;
-	}
-	.col-news-right {
-	  padding: 0;
-	  margin-top: 0em;
-	}
 	.col-bottom p {
 	  font-size: 0.9em;
 	}
 	a.more {
      font-size: 1.1em;
    }
-   .col-news {
-	  padding: 0;
-	  margin: 1em 0;
-	}
-	.col-news-top .date-in .month-in label .day {
-	  font-size: 1.5em;
-	  line-height: 101px;
-	  margin-bottom: -35px;
-	}
-	.col-news-top .date-in .month-in label .month {
-	  font-size: 12px;
-	  line-height: 14px;
-	}
 	ul.f-icons li {
 	  margin-right: 1em;
 	}
