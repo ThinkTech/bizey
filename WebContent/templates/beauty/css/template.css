@@ -154,9 +154,18 @@ h1 {
 h3 {
   font-size: 24px;
 }
+h3 .fa {
+	margin-right : 5px;
+}
+
 h4 {
   font-size: 18px;
 }
+
+h4 .fa {
+	margin-right : 5px;
+}
+
 h5 {
   font-size: 14px;
 }
@@ -920,6 +929,7 @@ color: #f25d9d;
 .scrollToTop {
     background-color: #f25d9d;
     color: #fff;
+    border : 1px solid;
 }
 .scrollToTop:hover, .scrollToTop:focus {
     text-decoration: none;
