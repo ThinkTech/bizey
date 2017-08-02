@@ -754,14 +754,14 @@ figure.effect-jazz:hover p {
 
 .contact input[type=submit] {
     font-family: Lemonada;
-    background: #f25d9d;
+    background: #fff;
     cursor: pointer;
     display: block;
     margin-left: 53%;
     padding-top: 6px;
     height: 42px;
     width: 85px;
-    color: #fff;
+    color: #f25d9d;
     font-size: 95%;
     margin-bottom: 20px;
     margin-top: 30px;
@@ -770,8 +770,8 @@ figure.effect-jazz:hover p {
 }
 
 .contact input[type=submit]:hover {
-	background: #fff;
-	color: #f25d9d;
+	background: #f25d9d;
+	color: #fff;
 }
 
 .pricing ol,.schedules ul {
