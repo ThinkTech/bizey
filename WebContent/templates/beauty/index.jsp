@@ -80,7 +80,7 @@
 <!--start-welcome-->
 	<div id="welcome" class="about">
 	   <div class="container">
-		<h3 class="tittle">Bienvenue À L'institut Bizey</h3>
+		<h3 class="tittle"><i class="fa fa-wpexplorer" aria-hidden="true"></i>Bienvenue À L'institut Bizey</h3>
 		<p>L'institut Bizey est un institut de Beauté qui s'active fortement dans les domaines de la Coiffure, de l'Onglerie, des Soins du Corps et du Maquillage Professionnel ainsi que tous les services similaires. Nous vous accueillons dans un espace privilégié, accueillant et moderne afin de satisfaire vos besoins. Notre équipe avec son savoir-faire, fait preuve de rigueur, d'écoute et d'une grande technicité. La précision des finitions et le temps alloué à chaque étape pour ne rien négliger, nous  permettent de vous offrir un service performant et de haut de gamme.</p>
 	   
 	   </div>
@@ -88,7 +88,7 @@
 <!--start-banner-bottom-->
   <div id="services" class="banner-bottom-section">
 	<div class="container">
-	   <h3 class="tittle">Nos Services</h3>
+	   <h3 class="tittle"><i class="fa fa-hand-lizard-o" aria-hidden="true"></i>Nos Services</h3>
 		<div class="banner-bottom-info">
 			<div class="col-md-3 b-grids">
 					<i class="s1"> </i>
@@ -126,7 +126,7 @@
 	<!--start-banner-bottom-->
     <div class="hair-section">
 	     <div class="container">
-		<h3 class="tittle">Styles de coiffure</h3>
+		<h3 class="tittle"><i class="fa fa-star" aria-hidden="true"></i>Styles de coiffure</h3>
 	           <div class="grid">
 			      <div class="col-md-4 h-f">
 					<figure class="effect-jazz">
@@ -219,7 +219,7 @@
 		<!--start-pricing-->
 	<div id="pricing" class="pricing">
 	   <div class="container">
-		<h3 class="tittle">Nos Tarifs</h3>
+		<h3 class="tittle"><i class="fa fa-money" aria-hidden="true"></i>Nos Tarifs</h3>
 		<p>Nos prix sont nettement moins élevés que dans d'autres instituts et plusieurs méthodes de paiement sont disponibles.</p>
 	    <ol>
 	     <li>Par espèce</li>
@@ -232,7 +232,7 @@
     	<!--start-schedules-->
 	<div id="schedules" class="schedules">
 	   <div class="container">
-		<h3 class="tittle">Nos Horaires</h3>
+		<h3 class="tittle"><i class="fa fa-calendar" aria-hidden="true"></i>Nos Horaires</h3>
 		<p>Nous sommes ouverts du mardi au dimanche et nos horaires d'ouverture sont les suivantes : </p>
 		<br>
 		<ul>
@@ -249,7 +249,7 @@
 	<!--newsletter-->
 		<div class="newsletter">
 			<div class="container">
-			 <h3 class="tittle two">Social</h3>
+			 <h3 class="tittle two"><i class="fa fa-share-alt" aria-hidden="true"></i>Social</h3>
 				<div class="newslatter">
 					<ul class="f-icons">
 					<li><a class="facebook" href="https://www.facebook.com/InstitutBizey/" target="_blank"></a></li>
@@ -268,10 +268,10 @@
 	    <!--contact-->
 		<div id="contact" class="contact">
 			<div class="container">
-			 <h3 class="tittle two">Contact</h3>
-			 <p>L'institut de beauté Bizey est au <b>HLM 2 Rue 14 N°503 derrière la Mosquée. Dakar, Sénégal.</b></p>
+			 <h3 class="tittle two"><i class="fa fa-envelope" aria-hidden="true"></i>Contact</h3>
+			 <p>L'institut de beauté Bizey est au <b>HLM 2 Rue 14 N°503 derrière la Mosquée.</b></p>
 			 <p>Vous pouvez appeller au <b>+221 33 825 95 49</b> ou au <b>+221 77 845 46 85</b> pour prendre rendez-vous.</p>
-			  <p>Comme aussi, vous pouvez nous envoyer un email à <a href="mailto:info@institutbizey.com">info@institutbizey.com</a> ou utiliser le formulaire ci-dessous.</p>
+			  <p>Comme aussi, vous pouvez envoyer un email à <a href="mailto:info@institutbizey.com">info@institutbizey.com</a> ou utiliser le formulaire ci-dessous.</p>
 			<form method="post" action="contact">
 			    <label>Nom Complet</label>
 		  		<input id="name" name="mail.author" placeholder="Entrer votre nom complet..." type="text" data-info="Vous devez entrer votre nom complet">
@@ -291,14 +291,14 @@
 				<div class="container">
 					<div class="footer-grids wow bounceIn animated" data-wow-delay="0.4s">
 						<div class="col-md-3 footer-grid">
-						<h4>Adresse</h4>
+						<h4><i class="fa fa-address-card-o" aria-hidden="true"></i>Adresse</h4>
 						  <p>HLM 2 Rue 14 N°503 derrière la Mosquée. Dakar, Sénégal.</p>
 						  <p class="sub"><span>Téléphone :</span> +221 33 825 95 49</p>
 						  <p class="sub"><span>Mobile :</span> +221 77 845 46 85</p>
 						  <p class="sub"><span>Email :</span> info@institutbizey.com</p>
 						</div>
 						<div class="col-md-3 footer-grid">
-						<h4>Horaires</h4>
+						<h4><i class="fa fa-calendar" aria-hidden="true"></i>Horaires</h4>
 						  <p>mardi 10:00-19:30</p>
 						  <p>mercredi 10:00-19:30</p>
 						  <p>jeudi 10:00-19:30</p>
@@ -307,7 +307,7 @@
 						  <p>dimanche 10:00-19:30</p>
 						</div>
 						<div class="col-md-3 footer-grid">
-						<h4>Dites-le à vos amies</h4>
+						<h4><i class="fa fa-share-alt" aria-hidden="true"></i>Dites-le à vos amies</h4>
 						<div class="share-this">
 					      <div class="sharethis-inline-share-buttons"></div>
 					     </div>
