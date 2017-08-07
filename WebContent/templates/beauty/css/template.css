@@ -903,11 +903,11 @@ h3, h4, h5 {
 /*--copyright--*/
 .copyright{
   padding: 1em 1em;
-	background:#ffffff;
+	background:#fff;
 }
 .copyright p{
   text-align:center;
-  color: #222;
+  color: #000;
   font-size:0.9em;
 }
 .copyright p a{
