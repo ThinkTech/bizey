@@ -444,7 +444,7 @@ padding:0;
     width: 276px;
     height: 274px;
     margin-right: 5px;
-    background-color: #fff1f8;
+    background-color: #f25d9d;
     border-radius: 50%;
     -webkit-border-radius: 50%;
     -moz-border-radius: 50%;
@@ -456,10 +456,10 @@ padding:0;
  .album-box h4{
  font-size: 2em;
   font-weight: 400;
- color: #c71585;
+ color: #fff;
 }
  .album-box p {
-  color: #333;
+  color: #250303;
   font-size: 1em;
   line-height: 1.7em;
   margin: 0.5em 0 0 0;
@@ -1446,7 +1446,7 @@ ul.nav{
 .nav > li > a {
    padding: .5em 1em .5em 1em;
   display: block;
-  color: #ecebe9;
+  color: #fff;
   margin: 5px;
   font-size: 1em;
   font-weight: 600;
