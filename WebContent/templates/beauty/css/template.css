@@ -560,7 +560,7 @@ h3.tittle {
   font-size: 1.3em;
   font-weight: 400;
   color: #fefdff;
-  line-height: 1.4em;
+  line-height: 2.4em;
   position: relative;
   top: 5px;
 }
@@ -734,9 +734,10 @@ figure.effect-jazz:hover p {
     height: 43px;
     margin-bottom: 15px;
     background: #fff;
-    padding-left: 3px;
+    padding-left: 6px;
     border: 1px solid #711bab;
     font-family : Tahoma;
+    text-transform : lowercase;
 }
 
 .contact textarea {
@@ -746,11 +747,11 @@ figure.effect-jazz:hover p {
     margin-bottom: 16px;
     display: block;
     background : #fff1f8;
-    padding-left: 3px;
     border: 1px solid #711bab;
     font-family : Tahoma;
     padding : 5px;
-    padding-left : 2px;
+    padding-left: 6px;
+    text-transform: lowercase;
 }
 
 .contact input[type=submit] {
